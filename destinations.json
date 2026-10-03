@@ -1,0 +1,1988 @@
+[
+  {
+    "id": "1",
+    "name": {
+      "en": "Cox’s Bazar",
+      "bn": "কক্সবাজার"
+    },
+    "district": {
+      "en": "Cox’s Bazar",
+      "bn": "কক্সবাজার"
+    },
+    "region": "Chattogram",
+    "regionBn": "চট্টগ্রাম",
+    "category": "beach",
+    "lat": 21.4272,
+    "lng": 91.9702,
+    "description": {
+      "en": "An expansive sandy coastline facing the Bay of Bengal. The beach and coastal scenery make this one of Bangladesh’s best-known travel destinations.",
+      "bn": "বঙ্গোপসাগরের তীরে বিস্তৃত বালুকাময় সৈকত। সমুদ্র ও উপকূলের দৃশ্যের জন্য এটি বাংলাদেশের অন্যতম পরিচিত ভ্রমণস্থান।"
+    },
+    "travel": {
+      "en": "Reach Cox’s Bazar town, then use local transport to the beach. Follow lifeguard advice and check sea conditions.",
+      "bn": "কক্সবাজার শহরে পৌঁছে স্থানীয় যানবাহনে সৈকতে যান। লাইফগার্ডের পরামর্শ মানুন ও সমুদ্রের পরিস্থিতি যাচাই করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Cox’s Bazar",
+      "কক্সবাজার",
+      "cox bazar",
+      "coxs bazar"
+    ],
+    "image": "coxs-bazar.jpg",
+    "source": "https://www.beautifulbangladesh.gov.bd/cat/spring/12",
+    "credit": "coxs",
+    "background": {
+      "en": "Cox’s Bazar combines an active coastal town with a long sandy shoreline. Its appeal is the changing light over the Bay of Bengal and the surrounding coastal landscape. The district also includes islands and religious sites, so a visit can extend beyond the town beach.",
+      "bn": "কক্সবাজারে উপকূলীয় শহর ও দীর্ঘ বালুকাময় সৈকত একসঙ্গে দেখা যায়। বঙ্গোপসাগরের আলো ও উপকূলের প্রকৃতি এর মূল আকর্ষণ। জেলায় দ্বীপ ও ধর্মীয় স্থাপনাও রয়েছে; ভ্রমণ শুধু শহরের সৈকতেই সীমাবদ্ধ রাখতে হবে না।"
+    },
+    "highlights": {
+      "en": [
+        "Beach walks",
+        "Bay of Bengal views"
+      ],
+      "bn": [
+        "সৈকতে হাঁটা",
+        "বঙ্গোপসাগরের দৃশ্য"
+      ]
+    },
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://www.beautifulbangladesh.gov.bd/cat/spring/12"
+      }
+    ],
+    "visitorInfo": {
+      "en": "Current opening hours, entry fees and access arrangements have not been verified. Use the official source below before you travel.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে নিচের সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "checked": "2026-10-02",
+    "photoCredit": {
+      "name": "Abirmic",
+      "source": "https://commons.wikimedia.org/wiki/File:Cox%27s_bazar_sea_beach.BD.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "2",
+    "name": {
+      "en": "The Sundarbans",
+      "bn": "সুন্দরবন"
+    },
+    "district": {
+      "en": "Southwestern Bangladesh",
+      "bn": "দক্ষিণ-পশ্চিম বাংলাদেশ"
+    },
+    "region": "Khulna",
+    "regionBn": "খুলনা",
+    "category": "forest",
+    "lat": 22,
+    "lng": 89.5,
+    "description": {
+      "en": "A mangrove landscape shaped by tidal waterways, with remarkable wildlife and forest ecosystems. Its Bangladesh World Heritage site is recognised by UNESCO.",
+      "bn": "জোয়ার-ভাটার নদীপথে ঘেরা ম্যানগ্রোভ বন। জীববৈচিত্র্যের জন্য গুরুত্বপূর্ণ; বাংলাদেশের সুন্দরবনের অংশ ইউনেসকো বিশ্ব ঐতিহ্যের স্বীকৃতিপ্রাপ্ত।"
+    },
+    "travel": {
+      "en": "Arrange a permitted guided boat trip through an established operator. Confirm forest permissions and the departure point.",
+      "bn": "অনুমোদিত অপারেটরের মাধ্যমে গাইডসহ নৌভ্রমণ করুন। বন বিভাগের অনুমতি ও যাত্রাস্থল নিশ্চিত করুন।"
+    },
+    "unesco": true,
+    "aliases": [
+      "The Sundarbans",
+      "সুন্দরবন"
+    ],
+    "image": "destination-2.jpg",
+    "source": "https://whc.unesco.org/en/list/798",
+    "background": {
+      "en": "The Sundarbans is a landscape of mangrove islands and tidal channels shared across Bangladesh and India. The Bangladesh World Heritage property protects important forest and wildlife habitats. Explore it through an organised boat journey; the destination pin represents a broad forest area, not a visitor entrance.",
+      "bn": "বাংলাদেশ ও ভারতজুড়ে সুন্দরবন ম্যানগ্রোভ দ্বীপ ও জোয়ার-ভাটার নদীপথের বিস্তৃত অঞ্চল। বাংলাদেশের বিশ্ব ঐতিহ্য অংশ গুরুত্বপূর্ণ বন ও বন্যপ্রাণীর আবাস সংরক্ষণ করে। পরিকল্পিত নৌভ্রমণে ঘুরুন; পিনটি বিস্তৃত বনাঞ্চল বোঝায়, প্রবেশপথ নয়।"
+    },
+    "highlights": {
+      "en": [
+        "Tidal waterways",
+        "Mangrove ecology"
+      ],
+      "bn": [
+        "জোয়ার-ভাটার নদীপথ",
+        "ম্যানগ্রোভ বাস্তুতন্ত্র"
+      ]
+    },
+    "sources": [
+      {
+        "name": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/798"
+      }
+    ],
+    "visitorInfo": {
+      "en": "Current opening hours, entry fees and access arrangements have not been verified. Use the official source below before you travel.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে নিচের সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Mangrove forest and wooden walkway in Sundarbans East Wildlife Sanctuary, Bangladesh.",
+      "bn": "বাংলাদেশের সুন্দরবন পূর্ব বন্যপ্রাণী অভয়ারণ্যের ম্যানগ্রোভ বন ও কাঠের পথ।"
+    },
+    "photoCredit": {
+      "name": "Syed sajidul islam",
+      "source": "https://commons.wikimedia.org/wiki/File:Sundarbans_East_Wildlife_Sanctuary,Bangladesh.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "3",
+    "name": {
+      "en": "Sreemangal",
+      "bn": "শ্রীমঙ্গল"
+    },
+    "district": {
+      "en": "Moulvibazar",
+      "bn": "মৌলভীবাজার"
+    },
+    "region": "Sylhet",
+    "regionBn": "সিলেট",
+    "category": "tea",
+    "lat": 24.3065,
+    "lng": 91.7296,
+    "description": {
+      "en": "Tea gardens and green countryside define this popular escape in the Sylhet region. Explore the landscape at a relaxed pace and discover local tea culture.",
+      "bn": "চা-বাগান ও সবুজ প্রকৃতির জন্য পরিচিত। পাহাড়ি চা-বাগান এবং স্থানীয় চায়ের সংস্কৃতি উপভোগ করুন।"
+    },
+    "travel": {
+      "en": "Travel to Sreemangal by road or rail. Ask permission before entering working tea estates.",
+      "bn": "সড়ক বা রেলপথে শ্রীমঙ্গল যান। চা-বাগানে প্রবেশের আগে অনুমতি নিন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Sreemangal",
+      "শ্রীমঙ্গল",
+      "srimangal",
+      "স্রীমঙ্গল"
+    ],
+    "image": "sylhet.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/loc/sylhet",
+    "credit": "sylhet",
+    "background": {
+      "en": "Sreemangal is a convenient base for discovering Moulvibazar’s green countryside and tea landscapes. A visit can focus on local tea culture and unhurried exploration. Working estates are not automatically open attractions, so obtain permission before entering. The photograph shown here depicts tea gardens in the wider Sylhet region.",
+      "bn": "শ্রীমঙ্গল মৌলভীবাজারের সবুজ প্রকৃতি ও চা-বাগান ঘুরে দেখার সুবিধাজনক কেন্দ্র। স্থানীয় চায়ের সংস্কৃতি উপভোগ করুন। সব চা-বাগান দর্শনার্থীদের জন্য খোলা নয়; প্রবেশের আগে অনুমতি নিন। এখানে ব্যবহৃত ছবিটি বৃহত্তর সিলেট অঞ্চলের চা-বাগানের।"
+    },
+    "highlights": {
+      "en": [
+        "Tea landscapes",
+        "Local tea culture"
+      ],
+      "bn": [
+        "চা-বাগানের প্রকৃতি",
+        "স্থানীয় চায়ের সংস্কৃতি"
+      ]
+    },
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board · Sylhet guide",
+        "url": "https://beautifulbangladesh.gov.bd/loc/sylhet"
+      }
+    ],
+    "visitorInfo": {
+      "en": "Current opening hours, entry fees and access arrangements have not been verified. Use the official source below before you travel.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে নিচের সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Tea gardens in the wider Sylhet region",
+      "bn": "বৃহত্তর সিলেট অঞ্চলের চা-বাগান"
+    },
+    "photoCredit": {
+      "name": "Abu Hasan Mehedi",
+      "source": "https://commons.wikimedia.org/wiki/File:Tea_garden_in_Sylhet_(40349163252).jpg",
+      "license": "CC BY 2.0",
+      "url": "https://creativecommons.org/licenses/by/2.0/"
+    }
+  },
+  {
+    "id": "4",
+    "name": {
+      "en": "Kaptai Lake & Rangamati",
+      "bn": "কাপ্তাই হ্রদ ও রাঙ্গামাটি"
+    },
+    "district": {
+      "en": "Rangamati",
+      "bn": "রাঙ্গামাটি"
+    },
+    "region": "Chattogram",
+    "regionBn": "চট্টগ্রাম",
+    "category": "lake",
+    "lat": 22.655,
+    "lng": 92.177,
+    "description": {
+      "en": "Lake views and surrounding hills offer a distinctive waterside setting. Rangamati is also home to the Rajban Vihara Buddhist monastery and its well-known hanging bridge.",
+      "bn": "হ্রদ ও পাহাড়ের মনোরম পরিবেশ। রাঙ্গামাটিতে রাজবন বিহার ও পরিচিত ঝুলন্ত সেতুও রয়েছে।"
+    },
+    "travel": {
+      "en": "Reach Rangamati by road. Use a licensed boat operator and wear a life jacket on the lake.",
+      "bn": "সড়কপথে রাঙ্গামাটি যান। অনুমোদিত নৌযান ব্যবহার করুন ও লাইফ জ্যাকেট পরুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Kaptai Lake & Rangamati",
+      "কাপ্তাই হ্রদ ও রাঙ্গামাটি"
+    ],
+    "image": "destination-4.jpg",
+    "source": "https://www.rangamati.gov.bd/en/site/view/tourist_spot",
+    "background": {
+      "en": "Rangamati’s landscape brings together lake waters, hills and living cultural traditions. The hanging bridge is a recognisable local landmark, while Rajban Vihara is a Buddhist religious site within the town. These are different stops: allow for local transport and treat religious spaces as places of worship.",
+      "bn": "রাঙ্গামাটিতে হ্রদ, পাহাড় ও জীবন্ত সাংস্কৃতিক ঐতিহ্য একসঙ্গে রয়েছে। ঝুলন্ত সেতু পরিচিত নিদর্শন; শহরের রাজবন বিহার বৌদ্ধ ধর্মীয় স্থান। এগুলো পৃথক গন্তব্য; স্থানীয় যাতায়াতের ব্যবস্থা রাখুন এবং ধর্মীয় স্থানের মর্যাদা রক্ষা করুন।"
+    },
+    "highlights": {
+      "en": [
+        "Lake scenery",
+        "Hanging bridge and Rajban Vihara"
+      ],
+      "bn": [
+        "হ্রদের দৃশ্য",
+        "ঝুলন্ত সেতু ও রাজবন বিহার"
+      ]
+    },
+    "sources": [
+      {
+        "name": "Rangamati District Administration",
+        "url": "https://www.rangamati.gov.bd/en/site/view/tourist_spot"
+      }
+    ],
+    "visitorInfo": {
+      "en": "Current opening hours, entry fees and access arrangements have not been verified. Use the official source below before you travel.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে নিচের সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Kaptai Lake, Rangamati.",
+      "bn": "কাপ্তাই হ্রদ, রাঙামাটি।"
+    },
+    "photoCredit": {
+      "name": "Mahjuja Islam",
+      "source": "https://commons.wikimedia.org/wiki/File:Kaptai_Lake_of_Rangamati.jpg",
+      "license": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  },
+  {
+    "id": "5",
+    "name": {
+      "en": "Kuakata",
+      "bn": "কুয়াকাটা"
+    },
+    "district": {
+      "en": "Patuakhali",
+      "bn": "পটুয়াখালী"
+    },
+    "region": "Barishal",
+    "regionBn": "বরিশাল",
+    "category": "beach",
+    "lat": 21.8167,
+    "lng": 90.1194,
+    "description": {
+      "en": "A coastal destination on Bangladesh’s southern edge, known for open sea views and a broad sandy beach overlooking the Bay of Bengal.",
+      "bn": "দক্ষিণ উপকূলের জনপ্রিয় গন্তব্য। বঙ্গোপসাগর ও বিস্তৃত বালুকাময় সৈকতের দৃশ্য উপভোগ করুন।"
+    },
+    "travel": {
+      "en": "Reach Kuakata by road via Patuakhali. Confirm local transport and weather before departure.",
+      "bn": "পটুয়াখালী হয়ে সড়কপথে কুয়াকাটা যান। আগে পরিবহন ও আবহাওয়া যাচাই করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Kuakata",
+      "কুয়াকাটা"
+    ],
+    "image": "destination-5.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/district-destination/patuakhali/sea-beaches/20",
+    "background": {
+      "en": "Kuakata is a southern coastal destination in Patuakhali, also known as Sagar Kannya. Its open coastline is associated with sunrise and sunset views over the sea. The surrounding area includes Buddhist religious heritage and coastal greenery; respect worshippers when visiting religious sites.",
+      "bn": "পটুয়াখালীর দক্ষিণ উপকূলীয় গন্তব্য কুয়াকাটা সাগরকন্যা নামেও পরিচিত। খোলা উপকূল সমুদ্রের সূর্যোদয় ও সূর্যাস্তের দৃশ্যের জন্য পরিচিত। এলাকায় বৌদ্ধ ধর্মীয় ঐতিহ্য ও উপকূলীয় সবুজ প্রকৃতিও রয়েছে; ধর্মীয় স্থানে উপাসনাকারীদের সম্মান করুন।"
+    },
+    "highlights": {
+      "en": [
+        "Coastal views",
+        "Sunrise and sunset scenery"
+      ],
+      "bn": [
+        "উপকূলের দৃশ্য",
+        "সূর্যোদয় ও সূর্যাস্ত"
+      ]
+    },
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://beautifulbangladesh.gov.bd/district-destination/patuakhali/sea-beaches/20"
+      }
+    ],
+    "visitorInfo": {
+      "en": "Current opening hours, entry fees and access arrangements have not been verified. Use the official source below before you travel.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে নিচের সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Kuakata sea beach, Bangladesh.",
+      "bn": "কুয়াকাটা সমুদ্রসৈকত, বাংলাদেশ।"
+    },
+    "photoCredit": {
+      "name": "Fahimrb",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuakata_Sea_Beach.JPG",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "6",
+    "name": {
+      "en": "Khagrachhari",
+      "bn": "খাগড়াছড়ি"
+    },
+    "district": {
+      "en": "Khagrachhari",
+      "bn": "খাগড়াছড়ি"
+    },
+    "region": "Chattogram",
+    "regionBn": "চট্টগ্রাম",
+    "category": "hill",
+    "lat": 23.1193,
+    "lng": 91.9847,
+    "description": {
+      "en": "A gateway to the Chittagong Hill Tracts, with green hills and diverse Indigenous communities. Learn about local culture respectfully and check access arrangements before travelling.",
+      "bn": "সবুজ পাহাড় ও বৈচিত্র্যময় আদিবাসী জনগোষ্ঠীর আবাসভূমি। স্থানীয় সংস্কৃতির প্রতি সম্মান রাখুন এবং প্রবেশের নিয়ম যাচাই করুন।"
+    },
+    "travel": {
+      "en": "Travel by road to Khagrachhari. Check local access guidance and use local guides for unfamiliar areas.",
+      "bn": "সড়কপথে খাগড়াছড়ি যান। প্রবেশবিধি যাচাই করুন ও অপরিচিত এলাকায় স্থানীয় গাইড নিন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Khagrachhari",
+      "খাগড়াছড়ি"
+    ],
+    "image": "destination-6.jpg",
+    "source": "https://www.khagrachhari.gov.bd/bn/site/tourist_spot/নন্দনকানন",
+    "background": {
+      "en": "Khagrachhari is a hill district with diverse Indigenous communities and distinctive landscapes. Alutila Tourism Park is a local attraction associated with hill scenery and a natural cave. This guide’s pin marks the town area; confirm the exact stop and access guidance for any outing beyond town.",
+      "bn": "খাগড়াছড়ি বৈচিত্র্যময় আদিবাসী জনগোষ্ঠী ও স্বতন্ত্র প্রাকৃতিক দৃশ্যের পাহাড়ি জেলা। আলুটিলা পর্যটন পার্ক পাহাড় ও প্রাকৃতিক গুহার পরিচিত আকর্ষণ। পিনটি শহর এলাকা বোঝায়; শহরের বাইরে যাওয়ার আগে সঠিক গন্তব্য ও প্রবেশবিধি নিশ্চিত করুন।"
+    },
+    "highlights": {
+      "en": [
+        "Hill landscapes",
+        "Local culture"
+      ],
+      "bn": [
+        "পাহাড়ের প্রকৃতি",
+        "স্থানীয় সংস্কৃতি"
+      ]
+    },
+    "sources": [
+      {
+        "name": "Khagrachhari District Administration",
+        "url": "https://www.khagrachhari.gov.bd/bn/site/tourist_spot/নন্দনকানন"
+      }
+    ],
+    "visitorInfo": {
+      "en": "Current opening hours, entry fees and access arrangements have not been verified. Use the official source below before you travel.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে নিচের সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Panorama of Khagrachhari from Alutila Helipad.",
+      "bn": "আলুটিলা হেলিপ্যাড থেকে খাগড়াছড়ির বিস্তৃত দৃশ্য।"
+    },
+    "photoCredit": {
+      "name": "Shadman Samee",
+      "source": "https://commons.wikimedia.org/wiki/File:Khagrachari_from_Alutila_Helipad_(30123947153).jpg",
+      "license": "CC BY-SA 2.0",
+      "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    }
+  },
+  {
+    "id": "7",
+    "name": {
+      "en": "Paharpur",
+      "bn": "পাহাড়পুর"
+    },
+    "district": {
+      "en": "Naogaon",
+      "bn": "নওগাঁ"
+    },
+    "region": "Rajshahi",
+    "regionBn": "রাজশাহী",
+    "category": "history",
+    "lat": 25.0306,
+    "lng": 88.9764,
+    "description": {
+      "en": "The ruins of Somapura Mahavihara preserve a major Buddhist monastic complex. This UNESCO World Heritage site is an essential stop for exploring Bangladesh’s archaeological history.",
+      "bn": "সোমপুর মহাবিহারের ধ্বংসাবশেষ গুরুত্বপূর্ণ বৌদ্ধ মঠের সাক্ষ্য বহন করে। বাংলাদেশের প্রত্নতাত্ত্বিক ইতিহাসের এই স্থান ইউনেসকো স্বীকৃত।"
+    },
+    "travel": {
+      "en": "Travel via Naogaon or Joypurhat, then arrange local transport to Paharpur. Check museum opening hours.",
+      "bn": "নওগাঁ বা জয়পুরহাট হয়ে স্থানীয় যানবাহনে পাহাড়পুর যান। জাদুঘরের সময়সূচি যাচাই করুন।"
+    },
+    "unesco": true,
+    "aliases": [
+      "Paharpur",
+      "পাহাড়পুর",
+      "somapura mahavihara",
+      "সোমপুর মহাবিহার"
+    ],
+    "image": "paharpur.jpg",
+    "source": "https://whc.unesco.org/en/list/322",
+    "credit": "paharpur",
+    "background": {
+      "en": "Somapura Mahavihara was an important Buddhist centre under Pala patronage. Its large courtyard, central shrine and surrounding monastic cells reveal the organisation of a religious and intellectual community. Stone and terracotta decoration are part of its artistic significance, and its architecture influenced monuments elsewhere in Asia.",
+      "bn": "পাল রাজাদের পৃষ্ঠপোষকতায় সোমপুর মহাবিহার গুরুত্বপূর্ণ বৌদ্ধ কেন্দ্র ছিল। বিশাল প্রাঙ্গণ, কেন্দ্রীয় মন্দির ও চারপাশের ভিক্ষুদের কক্ষ ধর্মীয় ও জ্ঞানচর্চার সমাজের বিন্যাস দেখায়। পাথর ও পোড়ামাটির অলংকরণ এর শিল্পমূল্য বহন করে; এশিয়ার অন্য স্থাপত্যেও এর প্রভাব ছিল।"
+    },
+    "highlights": {
+      "en": [
+        "Central shrine",
+        "Monastery layout and terracotta"
+      ],
+      "bn": [
+        "কেন্দ্রীয় মন্দির",
+        "বিহারের বিন্যাস ও পোড়ামাটির অলংকরণ"
+      ]
+    },
+    "sources": [
+      {
+        "name": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/322"
+      }
+    ],
+    "visitorInfo": {
+      "en": "Current opening hours, entry fees and access arrangements have not been verified. Use the official source below before you travel.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে নিচের সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "checked": "2026-10-02",
+    "photoCredit": {
+      "name": "Man",
+      "source": "https://commons.wikimedia.org/wiki/File:Somapura_Mahavihara.jpg",
+      "license": "CC BY 2.0",
+      "url": "https://creativecommons.org/licenses/by/2.0/"
+    }
+  },
+  {
+    "id": "8",
+    "name": {
+      "en": "Historic Mosque City",
+      "bn": "বাগেরহাটের ঐতিহাসিক মসজিদ নগরী"
+    },
+    "district": {
+      "en": "Bagerhat",
+      "bn": "বাগেরহাট"
+    },
+    "region": "Khulna",
+    "regionBn": "খুলনা",
+    "category": "history",
+    "lat": 22.6745,
+    "lng": 89.7419,
+    "description": {
+      "en": "A remarkable collection of historic mosques and monuments, including the Sixty Dome Mosque. UNESCO recognises the city’s architectural and historical importance.",
+      "bn": "ষাট গম্বুজ মসজিদসহ ঐতিহাসিক মসজিদ ও স্থাপনার সমাহার। স্থাপত্য ও ইতিহাসের জন্য ইউনেসকো স্বীকৃত।"
+    },
+    "travel": {
+      "en": "Travel by road to Bagerhat and continue to the Sixty Dome Mosque complex. Dress respectfully.",
+      "bn": "সড়কপথে বাগেরহাট পৌঁছে ষাট গম্বুজ মসজিদে যান। শালীন পোশাক পরুন।"
+    },
+    "unesco": true,
+    "aliases": [
+      "Historic Mosque City",
+      "বাগেরহাটের ঐতিহাসিক মসজিদ নগরী",
+      "sixty dome mosque",
+      "ষাট গম্বুজ মসজিদ"
+    ],
+    "image": "destination-8.jpg",
+    "source": "https://whc.unesco.org/en/list/321",
+    "background": {
+      "en": "The historic city, formerly called Khalifatabad, developed under Khan Jahan in the fifteenth century. Its heritage includes brick mosques, tombs, roads and water infrastructure. The Sixty Dome Mosque and Khan Jahan’s tomb are key monuments within a wider historic landscape, rather than a single enclosed attraction.",
+      "bn": "খলিফাতাবাদ নামে পরিচিত ঐতিহাসিক নগরী পঞ্চদশ শতকে খান জাহানের সময় গড়ে ওঠে। ইটের মসজিদ, সমাধি, সড়ক ও জলব্যবস্থাপনা এর ঐতিহ্যের অংশ। ষাট গম্বুজ মসজিদ ও খান জাহানের সমাধি বিস্তৃত ঐতিহাসিক অঞ্চলের গুরুত্বপূর্ণ নিদর্শন; এটি একটিমাত্র স্থাপনা নয়।"
+    },
+    "highlights": {
+      "en": [
+        "Sixty Dome Mosque",
+        "Historic mosque-city landscape"
+      ],
+      "bn": [
+        "ষাট গম্বুজ মসজিদ",
+        "ঐতিহাসিক মসজিদ নগরী"
+      ]
+    },
+    "sources": [
+      {
+        "name": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/321"
+      }
+    ],
+    "visitorInfo": {
+      "en": "Current opening hours, entry fees and access arrangements have not been verified. Use the official source below before you travel.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে নিচের সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Sixty Dome Mosque, Historic Mosque City of Bagerhat.",
+      "bn": "বাগেরহাটের ঐতিহাসিক মসজিদ নগরীর ষাট গম্বুজ মসজিদ।"
+    },
+    "photoCredit": {
+      "name": "Rds26",
+      "source": "https://commons.wikimedia.org/wiki/File:Sixty_Dome_Mosque_in_Bagerhat_Bangladesh.JPG",
+      "license": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  {
+    "id": "9",
+    "name": {
+      "en": "Lalbagh Fort",
+      "bn": "লালবাগ কেল্লা"
+    },
+    "district": {
+      "en": "Old Dhaka",
+      "bn": "পুরান ঢাকা"
+    },
+    "region": "Dhaka",
+    "regionBn": "ঢাকা",
+    "category": "history",
+    "lat": 23.7196,
+    "lng": 90.3881,
+    "description": {
+      "en": "A Mughal-era fort complex in the heart of Old Dhaka. Its historic buildings and gardens offer a way to encounter the city’s layered past.",
+      "bn": "পুরান ঢাকার মুঘল আমলের দুর্গ। ঐতিহাসিক স্থাপনা ও বাগানের মাধ্যমে ঢাকার অতীতের সঙ্গে পরিচিত হোন।"
+    },
+    "travel": {
+      "en": "Use local road transport. Confirm entry rules, ticket information and opening hours before visiting.",
+      "bn": "স্থানীয় সড়ক পরিবহন ব্যবহার করুন। আগে প্রবেশবিধি, টিকিট ও সময়সূচি যাচাই করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Lalbagh Fort",
+      "লালবাগ কেল্লা"
+    ],
+    "image": "destination-9.jpg",
+    "source": "https://www.beautifulbangladesh.gov.bd/cat/heritage/4",
+    "background": {
+      "en": "Construction of Lalbagh Fort began in 1678 under Prince Muhammad Azam. The unfinished Mughal complex includes Pari Bibi’s tomb, a mosque, and an audience hall with a hammam. Its surviving structures make it a useful introduction to Mughal architecture in Dhaka.",
+      "bn": "১৬৭৮ সালে যুবরাজ মুহাম্মদ আজমের সময় লালবাগ কেল্লার নির্মাণ শুরু হয়। অসমাপ্ত মুঘল কমপ্লেক্সে পরীবিবির সমাধি, মসজিদ এবং হাম্মামসহ দরবার হল রয়েছে। টিকে থাকা স্থাপনাগুলো ঢাকার মুঘল স্থাপত্যের পরিচয় দেয়।"
+    },
+    "highlights": {
+      "en": [
+        "Pari Bibi’s tomb",
+        "Audience hall and mosque"
+      ],
+      "bn": [
+        "পরীবিবির সমাধি",
+        "দরবার হল ও মসজিদ"
+      ]
+    },
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://www.beautifulbangladesh.gov.bd/cat/heritage/4"
+      }
+    ],
+    "visitorInfo": {
+      "en": "Current opening hours, entry fees and access arrangements have not been verified. Use the official source below before you travel.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে নিচের সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Tomb of Pari Bibi at Lalbagh Fort, Dhaka.",
+      "bn": "ঢাকার লালবাগ কেল্লায় পরী বিবির সমাধি।"
+    },
+    "photoCredit": {
+      "name": "Nabil Zawad",
+      "source": "https://commons.wikimedia.org/wiki/File:Lalbagh_Fort,_Dhaka,_Bangladesh.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "10",
+    "name": {
+      "en": "Panam City",
+      "bn": "পানাম নগর"
+    },
+    "district": {
+      "en": "Sonargaon",
+      "bn": "সোনারগাঁ"
+    },
+    "region": "Dhaka",
+    "regionBn": "ঢাকা",
+    "category": "history",
+    "lat": 23.656,
+    "lng": 90.6042,
+    "description": {
+      "en": "A historic street of distinctive buildings in Sonargaon. Its architectural remains offer a glimpse into the area’s merchant heritage.",
+      "bn": "সোনারগাঁয়ের ঐতিহাসিক ভবনের সারি। এলাকার ব্যবসা-বাণিজ্যের অতীতের পরিচয় বহন করে।"
+    },
+    "travel": {
+      "en": "Use local road transport. Confirm entry rules, ticket information and opening hours before visiting.",
+      "bn": "স্থানীয় সড়ক পরিবহন ব্যবহার করুন। আগে প্রবেশবিধি, টিকিট ও সময়সূচি যাচাই করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Panam City",
+      "পানাম নগর"
+    ],
+    "image": "destination-10.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/loc/dhaka/113",
+    "background": {
+      "en": "Panam City is part of the historic Sonargaon area in Narayanganj. The surviving street-front buildings express its architectural and trading heritage. Look at facades and the relationship between the buildings and street, while respecting restricted or fragile structures. Sonargaon’s folk-art museum is a separate stop in the surrounding area.",
+      "bn": "নারায়ণগঞ্জের ঐতিহাসিক সোনারগাঁ অঞ্চলের অংশ পানাম নগর। রাস্তার পাশের টিকে থাকা ভবন স্থাপত্য ও ব্যবসা-বাণিজ্যের ঐতিহ্য বহন করে। ভঙ্গুর বা নিষিদ্ধ স্থাপনা এড়িয়ে ভবনের বহির্ভাগ ও রাস্তার বিন্যাস দেখুন। সোনারগাঁয়ের লোকশিল্প জাদুঘর এলাকার পৃথক গন্তব্য।"
+    },
+    "highlights": {
+      "en": [
+        "Historic street-front buildings",
+        "Sonargaon heritage"
+      ],
+      "bn": [
+        "ঐতিহাসিক ভবনের সারি",
+        "সোনারগাঁয়ের ঐতিহ্য"
+      ]
+    },
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://beautifulbangladesh.gov.bd/loc/dhaka/113"
+      }
+    ],
+    "visitorInfo": {
+      "en": "Current opening hours, entry fees and access arrangements have not been verified. Use the official source below before you travel.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে নিচের সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Historic building in Panam City, Sonargaon.",
+      "bn": "সোনারগাঁয়ের পানাম নগরের ঐতিহাসিক ভবন।"
+    },
+    "photoCredit": {
+      "name": "Ferdous",
+      "source": "https://commons.wikimedia.org/wiki/File:Panam_city_001.jpg",
+      "license": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  {
+    "id": "11",
+    "name": {
+      "en": "Mahasthangarh",
+      "bn": "মহাস্থানগড়"
+    },
+    "district": {
+      "en": "Bogra",
+      "bn": "বগুড়া"
+    },
+    "region": "Rajshahi",
+    "regionBn": "রাজশাহী",
+    "category": "history",
+    "lat": 24.9611,
+    "lng": 89.3422,
+    "description": {
+      "en": "An important archaeological site associated with ancient Pundranagara. Its remains connect visitors with an early chapter of urban life in Bengal.",
+      "bn": "প্রাচীন পুণ্ড্রনগরের সঙ্গে সম্পর্কিত গুরুত্বপূর্ণ প্রত্নতাত্ত্বিক স্থান। বাংলার প্রাচীন নগরজীবনের ইতিহাস এখানে খুঁজে পাওয়া যায়।"
+    },
+    "travel": {
+      "en": "Use local road transport. Confirm entry rules, ticket information and opening hours before visiting.",
+      "bn": "স্থানীয় সড়ক পরিবহন ব্যবহার করুন। আগে প্রবেশবিধি, টিকিট ও সময়সূচি যাচাই করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Mahasthangarh",
+      "মহাস্থানগড়"
+    ],
+    "image": "destination-11.jpg",
+    "source": "https://whc.unesco.org/en/tentativelists/6671/",
+    "background": {
+      "en": "Mahasthangarh preserves the remains of ancient Pundranagara near present-day Bogura. Its fortified settlement and archaeological finds help explain early urban life in Bengal. The surrounding cultural landscape is also connected with the Karatoya River. It is on UNESCO’s Tentative List, which is different from World Heritage inscription.",
+      "bn": "বর্তমান বগুড়ার কাছে মহাস্থানগড় প্রাচীন পুণ্ড্রনগরের ধ্বংসাবশেষ সংরক্ষণ করে। দুর্গবেষ্টিত জনপদ ও প্রত্নতাত্ত্বিক নিদর্শন বাংলার প্রাচীন নগরজীবন বোঝায়। আশপাশের সাংস্কৃতিক ভূদৃশ্য করতোয়া নদীর সঙ্গে সম্পর্কিত। এটি ইউনেসকোর সম্ভাব্য তালিকায় রয়েছে; বিশ্ব ঐতিহ্যের চূড়ান্ত স্বীকৃতি নয়।"
+    },
+    "highlights": {
+      "en": [
+        "Ancient settlement remains",
+        "Archaeological landscape"
+      ],
+      "bn": [
+        "প্রাচীন জনপদের ধ্বংসাবশেষ",
+        "প্রত্নতাত্ত্বিক ভূদৃশ্য"
+      ]
+    },
+    "sources": [
+      {
+        "name": "UNESCO · Tentative List",
+        "url": "https://whc.unesco.org/en/tentativelists/6671/"
+      }
+    ],
+    "visitorInfo": {
+      "en": "Current opening hours, entry fees and access arrangements have not been verified. Use the official source below before you travel.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে নিচের সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Archaeological remains at Mahasthangarh.",
+      "bn": "মহাস্থানগড়ের প্রত্নতাত্ত্বিক অবশেষ।"
+    },
+    "photoCredit": {
+      "name": "Zaheed Sarwer Khan",
+      "source": "https://commons.wikimedia.org/wiki/File:View_of_Mahasthangarh.jpg",
+      "license": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  {
+    "id": "12",
+    "name": {
+      "en": "Ahsan Manzil",
+      "bn": "আহসান মঞ্জিল"
+    },
+    "district": {
+      "en": "Old Dhaka",
+      "bn": "পুরান ঢাকা"
+    },
+    "region": "Dhaka",
+    "regionBn": "ঢাকা",
+    "category": "history",
+    "lat": 23.7087,
+    "lng": 90.406,
+    "description": {
+      "en": "The distinctive pink palace beside the Buriganga River is associated with Dhaka’s Nawab family. It is a memorable landmark of the old city.",
+      "bn": "বুড়িগঙ্গার তীরের গোলাপি প্রাসাদটি ঢাকার নবাব পরিবারের সঙ্গে সম্পর্কিত। পুরান ঢাকার পরিচিত নিদর্শন।"
+    },
+    "travel": {
+      "en": "Use local road transport. Confirm entry rules, ticket information and opening hours before visiting.",
+      "bn": "স্থানীয় সড়ক পরিবহন ব্যবহার করুন। আগে প্রবেশবিধি, টিকিট ও সময়সূচি যাচাই করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Ahsan Manzil",
+      "আহসান মঞ্জিল"
+    ],
+    "image": "destination-12.jpg",
+    "source": "https://www.ahsanmanzil.org.bd/site/",
+    "background": {
+      "en": "Ahsan Manzil was the residential and administrative seat of Dhaka’s Nawab family. The palace on the Buriganga is now a museum, allowing visitors to explore the building and its historical context. Its riverside setting and distinctive pink exterior connect it closely with the story of Old Dhaka.",
+      "bn": "আহসান মঞ্জিল ঢাকার নবাব পরিবারের আবাসিক ও প্রশাসনিক কেন্দ্র ছিল। বুড়িগঙ্গার তীরের প্রাসাদ এখন জাদুঘর; ভবন ও এর ঐতিহাসিক প্রেক্ষাপট জানা যায়। নদীতীরের পরিবেশ ও গোলাপি বহির্ভাগ পুরান ঢাকার ইতিহাসের সঙ্গে যুক্ত।"
+    },
+    "highlights": {
+      "en": [
+        "Palace architecture",
+        "Museum and riverside setting"
+      ],
+      "bn": [
+        "প্রাসাদের স্থাপত্য",
+        "জাদুঘর ও নদীতীরের পরিবেশ"
+      ]
+    },
+    "sources": [
+      {
+        "name": "Ahsan Manzil Museum",
+        "url": "https://www.ahsanmanzil.org.bd/site/"
+      }
+    ],
+    "visitorInfo": {
+      "en": "Current opening hours, entry fees and access arrangements have not been verified. Use the official source below before you travel.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে নিচের সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Pink facade of Ahsan Manzil in Old Dhaka.",
+      "bn": "পুরান ঢাকার আহসান মঞ্জিলের গোলাপি সম্মুখভাগ।"
+    },
+    "photoCredit": {
+      "name": "Jahangir83",
+      "source": "https://commons.wikimedia.org/wiki/File:Ahsan_Manzil_in_Dhaka.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "13",
+    "name": {
+      "en": "National Martyrs’ Memorial",
+      "bn": "জাতীয় স্মৃতিসৌধ"
+    },
+    "district": {
+      "en": "Savar",
+      "bn": "সাভার"
+    },
+    "region": "Dhaka",
+    "regionBn": "ঢাকা",
+    "category": "landmark",
+    "lat": 23.9115,
+    "lng": 90.2567,
+    "description": {
+      "en": "A national memorial honouring those who died in Bangladesh’s Liberation War. Visit thoughtfully and respect the commemorative setting.",
+      "bn": "মুক্তিযুদ্ধে প্রাণদানকারী শহীদদের স্মরণে নির্মিত জাতীয় স্মৃতিসৌধ। শ্রদ্ধাশীল আচরণ করুন।"
+    },
+    "travel": {
+      "en": "Use local road transport. Confirm entry rules, ticket information and opening hours before visiting.",
+      "bn": "স্থানীয় সড়ক পরিবহন ব্যবহার করুন। আগে প্রবেশবিধি, টিকিট ও সময়সূচি যাচাই করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "National Martyrs’ Memorial",
+      "জাতীয় স্মৃতিসৌধ"
+    ],
+    "image": "destination-13.jpg",
+    "source": "https://www.beautifulbangladesh.gov.bd/district/dhaka",
+    "background": {
+      "en": "The National Martyrs’ Memorial at Savar honours those who died in the Liberation War of 1971. It is a place for remembrance as well as a national landmark. Approach the visit with an understanding of its commemorative purpose and allow time for quiet reflection.",
+      "bn": "সাভারের জাতীয় স্মৃতিসৌধ ১৯৭১ সালের মুক্তিযুদ্ধে প্রাণদানকারী শহীদদের সম্মান জানায়। এটি স্মরণ ও জাতীয় পরিচয়ের স্থান। স্মৃতিসৌধের উদ্দেশ্য বুঝে ভ্রমণ করুন এবং নীরবে স্মরণের জন্য সময় রাখুন।"
+    },
+    "highlights": {
+      "en": [
+        "National remembrance",
+        "Memorial grounds"
+      ],
+      "bn": [
+        "জাতীয় স্মরণ",
+        "স্মৃতিসৌধ প্রাঙ্গণ"
+      ]
+    },
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board · Dhaka guide",
+        "url": "https://www.beautifulbangladesh.gov.bd/district/dhaka"
+      }
+    ],
+    "visitorInfo": {
+      "en": "Current opening hours, entry fees and access arrangements have not been verified. Use the official source below before you travel.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে নিচের সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "National Martyrs’ Memorial in Savar.",
+      "bn": "সাভারের জাতীয় স্মৃতিসৌধ।"
+    },
+    "photoCredit": {
+      "name": "SM Mostafijur Rahman Nasim",
+      "source": "https://commons.wikimedia.org/wiki/File:National_Martyrs%27_Memorial_in_Savar.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "14",
+    "name": {
+      "en": "Central Shaheed Minar",
+      "bn": "কেন্দ্রীয় শহীদ মিনার"
+    },
+    "district": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
+    "region": "Dhaka",
+    "regionBn": "ঢাকা",
+    "category": "landmark",
+    "lat": 23.7279,
+    "lng": 90.3976,
+    "description": {
+      "en": "A monument honouring the martyrs of the Language Movement. It is a powerful expression of Bangladesh’s connection to language and cultural identity.",
+      "bn": "ভাষা আন্দোলনের শহীদদের স্মরণে নির্মিত স্মৃতিস্তম্ভ। ভাষা ও সাংস্কৃতিক পরিচয়ের প্রতীক।"
+    },
+    "travel": {
+      "en": "Use local road transport. Confirm entry rules, ticket information and opening hours before visiting.",
+      "bn": "স্থানীয় সড়ক পরিবহন ব্যবহার করুন। আগে প্রবেশবিধি, টিকিট ও সময়সূচি যাচাই করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Central Shaheed Minar",
+      "কেন্দ্রীয় শহীদ মিনার"
+    ],
+    "image": "destination-14.jpg",
+    "source": "https://www.beautifulbangladesh.gov.bd/district/dhaka",
+    "background": {
+      "en": "The Central Shaheed Minar commemorates the martyrs of the Language Movement. It is closely associated with the events of February 1952 and the importance of Bangla in national identity. The monument remains a setting for remembrance, particularly around 21 February.",
+      "bn": "কেন্দ্রীয় শহীদ মিনার ভাষা আন্দোলনের শহীদদের স্মরণ করে। ১৯৫২ সালের ফেব্রুয়ারির ঘটনা ও জাতীয় পরিচয়ে বাংলার গুরুত্বের সঙ্গে এটি গভীরভাবে যুক্ত। বিশেষত ২১ ফেব্রুয়ারি এখানে স্মরণ করা হয়।"
+    },
+    "highlights": {
+      "en": [
+        "Language Movement history",
+        "Commemorative monument"
+      ],
+      "bn": [
+        "ভাষা আন্দোলনের ইতিহাস",
+        "স্মরণমূলক স্থাপনা"
+      ]
+    },
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board · Dhaka guide",
+        "url": "https://www.beautifulbangladesh.gov.bd/district/dhaka"
+      }
+    ],
+    "visitorInfo": {
+      "en": "Current opening hours, entry fees and access arrangements have not been verified. Use the official source below before you travel.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে নিচের সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Central Shaheed Minar in Dhaka.",
+      "bn": "ঢাকার কেন্দ্রীয় শহীদ মিনার।"
+    },
+    "photoCredit": {
+      "name": "Tanvir Rahat",
+      "source": "https://commons.wikimedia.org/wiki/File:Central_Shaheed_Minar%2C_Dhaka%2C_Bangladesh.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "15",
+    "name": {
+      "en": "National Parliament House",
+      "bn": "জাতীয় সংসদ ভবন"
+    },
+    "district": {
+      "en": "Sher-e-Bangla Nagar",
+      "bn": "শেরেবাংলা নগর"
+    },
+    "region": "Dhaka",
+    "regionBn": "ঢাকা",
+    "category": "landmark",
+    "lat": 23.7625,
+    "lng": 90.3785,
+    "description": {
+      "en": "Louis Kahn’s striking parliamentary complex is a landmark of modern architecture. Visitor access is controlled; confirm arrangements before planning a visit.",
+      "bn": "লুই কানের নকশা করা আধুনিক স্থাপত্যের গুরুত্বপূর্ণ নিদর্শন। দর্শনার্থীদের প্রবেশ নিয়ন্ত্রিত; আগে ব্যবস্থা যাচাই করুন।"
+    },
+    "travel": {
+      "en": "Use local road transport. Confirm entry rules, ticket information and opening hours before visiting.",
+      "bn": "স্থানীয় সড়ক পরিবহন ব্যবহার করুন। আগে প্রবেশবিধি, টিকিট ও সময়সূচি যাচাই করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "National Parliament House",
+      "জাতীয় সংসদ ভবন"
+    ],
+    "image": "destination-15.jpg",
+    "source": "https://www.beautifulbangladesh.gov.bd/district/dhaka",
+    "background": {
+      "en": "Designed by Louis Kahn, the National Parliament House is one of Bangladesh’s most recognisable modern architectural landmarks. Its bold geometric forms and surrounding landscape distinguish the complex. Parliamentary buildings are controlled facilities: an exterior visit and interior access are different experiences and require different arrangements.",
+      "bn": "লুই কানের নকশা করা জাতীয় সংসদ ভবন বাংলাদেশের পরিচিত আধুনিক স্থাপত্যের নিদর্শন। জ্যামিতিক বিন্যাস ও আশপাশের পরিবেশ কমপ্লেক্সটিকে স্বতন্ত্র করে। এটি নিয়ন্ত্রিত স্থাপনা; বাইরে থেকে দেখা ও ভেতরে প্রবেশের ব্যবস্থা আলাদা।"
+    },
+    "highlights": {
+      "en": [
+        "Louis Kahn’s architecture",
+        "Geometric exterior forms"
+      ],
+      "bn": [
+        "লুই কানের স্থাপত্য",
+        "জ্যামিতিক বহির্ভাগ"
+      ]
+    },
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board · Dhaka guide",
+        "url": "https://www.beautifulbangladesh.gov.bd/district/dhaka"
+      }
+    ],
+    "visitorInfo": {
+      "en": "Current opening hours, entry fees and access arrangements have not been verified. Use the official source below before you travel.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে নিচের সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "National Parliament House in Dhaka.",
+      "bn": "ঢাকার জাতীয় সংসদ ভবন।"
+    },
+    "photoCredit": {
+      "name": "Mohosin.a94",
+      "source": "https://commons.wikimedia.org/wiki/File:Jatiyo_Sangsad_Bhaban_or_National_Parliament_House.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "16",
+    "name": {
+      "en": "Jaflong",
+      "bn": "জাফলং"
+    },
+    "district": {
+      "en": "Sylhet",
+      "bn": "সিলেট"
+    },
+    "region": "Sylhet",
+    "regionBn": "সিলেট",
+    "category": "river",
+    "lat": 25.165,
+    "lng": 92.017,
+    "description": {
+      "en": "A river-and-hill landscape near the Bangladesh–India border, known for stone-covered riverbanks and views of the surrounding hills.",
+      "bn": "বাংলাদেশ–ভারত সীমান্তের কাছের নদী ও পাহাড়ের দৃশ্য। পাথরঘেরা নদীতীর ও আশপাশের পাহাড় এর পরিচিত আকর্ষণ।"
+    },
+    "background": {
+      "en": "Jaflong lies in the northeastern border landscape of Sylhet. Its appeal comes from the meeting of river scenery, stone banks and nearby hills. Explore permitted areas and respect border restrictions.",
+      "bn": "সিলেটের উত্তর-পূর্ব সীমান্ত অঞ্চলে জাফলং। নদী, পাথরের তীর ও আশপাশের পাহাড় এর আকর্ষণ। অনুমোদিত এলাকায় ঘুরুন এবং সীমান্তের বিধিনিষেধ মানুন।"
+    },
+    "travel": {
+      "en": "Travel to the Sylhet area, then arrange local transport to Jaflong. Confirm the current route, entrance point and visitor arrangements before departure.",
+      "bn": "সিলেট এলাকায় পৌঁছে স্থানীয় পরিবহনের ব্যবস্থা করুন। যাত্রার আগে বর্তমান পথ, প্রবেশপথ ও দর্শনার্থীর ব্যবস্থা নিশ্চিত করুন।"
+    },
+    "highlights": {
+      "en": [
+        "Jaflong",
+        "Regional scenery"
+      ],
+      "bn": [
+        "জাফলং",
+        "আঞ্চলিক প্রকৃতি"
+      ]
+    },
+    "visitorInfo": {
+      "en": "Current opening hours, fees and access arrangements have not been verified. Confirm with official sources before travelling.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Jaflong",
+      "জাফলং"
+    ],
+    "image": "destination-16.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/district-destination/sylhet/hill-tracts-waterfalls/124",
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://beautifulbangladesh.gov.bd/district-destination/sylhet/hill-tracts-waterfalls/124"
+      }
+    ],
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "River and rocky banks at Jaflong, Sylhet.",
+      "bn": "সিলেটের জাফলংয়ে নদী ও পাথুরে তীর।"
+    },
+    "photoCredit": {
+      "name": "Ashef Emran",
+      "source": "https://commons.wikimedia.org/wiki/File:View_of_Jaflong.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "17",
+    "name": {
+      "en": "Ratargul Swamp Forest",
+      "bn": "রাতারগুল জলাবন"
+    },
+    "district": {
+      "en": "Sylhet",
+      "bn": "সিলেট"
+    },
+    "region": "Sylhet",
+    "regionBn": "সিলেট",
+    "category": "forest",
+    "lat": 25.006,
+    "lng": 91.902,
+    "description": {
+      "en": "A freshwater swamp forest in Gowainghat, where waterways and tree-covered wetland create a distinctive natural setting.",
+      "bn": "গোয়াইনঘাটের মিঠাপানির জলাবন। জলপথ ও গাছে ঘেরা জলাভূমি স্বতন্ত্র প্রাকৃতিক পরিবেশ তৈরি করে।"
+    },
+    "background": {
+      "en": "Ratargul is a freshwater wetland forest in Sylhet. Its appearance changes with water levels, making the relationship between trees and seasonal flooding part of the experience. Use local guided arrangements and protect the forest.",
+      "bn": "রাতারগুল সিলেটের মিঠাপানির জলাভূমির বন। পানির স্তর অনুযায়ী দৃশ্য বদলায়; গাছ ও মৌসুমি প্লাবনের সম্পর্ক এ অভিজ্ঞতার অংশ। স্থানীয় গাইডের সহায়তা নিন ও বন রক্ষা করুন।"
+    },
+    "travel": {
+      "en": "Use an established local guide or permitted operator. Confirm entry arrangements and stay on designated trails or approved boat routes.",
+      "bn": "স্থানীয় গাইড বা অনুমোদিত অপারেটর ব্যবহার করুন। প্রবেশের ব্যবস্থা নিশ্চিত করুন এবং নির্ধারিত পথ বা অনুমোদিত নৌপথে থাকুন।"
+    },
+    "highlights": {
+      "en": [
+        "Ratargul Swamp Forest",
+        "Regional scenery"
+      ],
+      "bn": [
+        "রাতারগুল জলাবন",
+        "আঞ্চলিক প্রকৃতি"
+      ]
+    },
+    "visitorInfo": {
+      "en": "Current opening hours, fees and access arrangements have not been verified. Confirm with official sources before travelling.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Ratargul Swamp Forest",
+      "রাতারগুল জলাবন"
+    ],
+    "image": "destination-17.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/district-destination/sylhet/green-zone/25",
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://beautifulbangladesh.gov.bd/district-destination/sylhet/green-zone/25"
+      }
+    ],
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "A boat on the water at Ratargul, Sylhet.",
+      "bn": "সিলেটের রাতারগুলের জলে একটি নৌকা।"
+    },
+    "photoCredit": {
+      "name": "Rawnak Jahan Khan Ranon",
+      "source": "https://commons.wikimedia.org/wiki/File:Ratargul_forest.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "18",
+    "name": {
+      "en": "Lawachara National Park",
+      "bn": "লাউয়াছড়া জাতীয় উদ্যান"
+    },
+    "district": {
+      "en": "Moulvibazar",
+      "bn": "মৌলভীবাজার"
+    },
+    "region": "Sylhet",
+    "regionBn": "সিলেট",
+    "category": "forest",
+    "lat": 24.328,
+    "lng": 91.786,
+    "description": {
+      "en": "A protected forest in Kamalganj, with walking trails and important wildlife habitats close to the Sreemangal area.",
+      "bn": "কমলগঞ্জের সংরক্ষিত বন। শ্রীমঙ্গল এলাকার কাছে হাঁটার পথ ও গুরুত্বপূর্ণ বন্যপ্রাণীর আবাস রয়েছে।"
+    },
+    "background": {
+      "en": "Lawachara protects semi-evergreen forest in Moulvibazar. Its trails offer a way to learn about forest ecology and wildlife habitats. Keep to permitted paths, maintain quiet, and never feed or disturb animals.",
+      "bn": "লাউয়াছড়া মৌলভীবাজারের আধা-চিরসবুজ বন সংরক্ষণ করে। বনের পথ বাস্তুতন্ত্র ও বন্যপ্রাণীর আবাস বোঝার সুযোগ দেয়। অনুমোদিত পথে চলুন, নীরব থাকুন এবং প্রাণীকে খাবার দেবেন না বা বিরক্ত করবেন না।"
+    },
+    "travel": {
+      "en": "Use an established local guide or permitted operator. Confirm entry arrangements and stay on designated trails or approved boat routes.",
+      "bn": "স্থানীয় গাইড বা অনুমোদিত অপারেটর ব্যবহার করুন। প্রবেশের ব্যবস্থা নিশ্চিত করুন এবং নির্ধারিত পথ বা অনুমোদিত নৌপথে থাকুন।"
+    },
+    "highlights": {
+      "en": [
+        "Lawachara National Park",
+        "Regional scenery"
+      ],
+      "bn": [
+        "লাউয়াছড়া জাতীয় উদ্যান",
+        "আঞ্চলিক প্রকৃতি"
+      ]
+    },
+    "visitorInfo": {
+      "en": "Current opening hours, fees and access arrangements have not been verified. Confirm with official sources before travelling.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Lawachara National Park",
+      "লাউয়াছড়া জাতীয় উদ্যান"
+    ],
+    "image": "destination-18.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/district-destination/moulvibazar/green-zone/23",
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://beautifulbangladesh.gov.bd/district-destination/moulvibazar/green-zone/23"
+      }
+    ],
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Lawachara National Park in winter mist.",
+      "bn": "শীতের কুয়াশায় লাউয়াছড়া জাতীয় উদ্যান।"
+    },
+    "photoCredit": {
+      "name": "Abdulmominbd",
+      "source": "https://commons.wikimedia.org/wiki/File:Lawachara_Forest.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "19",
+    "name": {
+      "en": "Madhabkunda Waterfall",
+      "bn": "মাধবকুণ্ড জলপ্রপাত"
+    },
+    "district": {
+      "en": "Moulvibazar",
+      "bn": "মৌলভীবাজার"
+    },
+    "region": "Sylhet",
+    "regionBn": "সিলেট",
+    "category": "waterfall",
+    "lat": 24.637,
+    "lng": 92.214,
+    "description": {
+      "en": "A well-known waterfall in Barlekha, set among the green landscapes of northeastern Bangladesh.",
+      "bn": "বড়লেখার পরিচিত জলপ্রপাত; উত্তর-পূর্ব বাংলাদেশের সবুজ প্রকৃতির মাঝে অবস্থিত।"
+    },
+    "background": {
+      "en": "The approach to Madhabkunda passes through a landscape associated with hills and tea country. The waterfall is the main attraction, but the surrounding greenery is part of the visit. Stay within designated visitor areas and avoid slippery rocks.",
+      "bn": "মাধবকুণ্ডের পথে পাহাড় ও চা-বাগান অঞ্চলের প্রকৃতি দেখা যায়। জলপ্রপাত মূল আকর্ষণ হলেও আশপাশের সবুজ পরিবেশ ভ্রমণের অংশ। নির্ধারিত দর্শনার্থী এলাকায় থাকুন এবং পিচ্ছিল পাথর এড়িয়ে চলুন।"
+    },
+    "travel": {
+      "en": "Travel to the Moulvibazar area, then arrange local transport to Madhabkunda Waterfall. Confirm the current route, entrance point and visitor arrangements before departure.",
+      "bn": "মৌলভীবাজার এলাকায় পৌঁছে স্থানীয় পরিবহনের ব্যবস্থা করুন। যাত্রার আগে বর্তমান পথ, প্রবেশপথ ও দর্শনার্থীর ব্যবস্থা নিশ্চিত করুন।"
+    },
+    "highlights": {
+      "en": [
+        "Madhabkunda Waterfall",
+        "Regional scenery"
+      ],
+      "bn": [
+        "মাধবকুণ্ড জলপ্রপাত",
+        "আঞ্চলিক প্রকৃতি"
+      ]
+    },
+    "visitorInfo": {
+      "en": "Current opening hours, fees and access arrangements have not been verified. Confirm with official sources before travelling.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Madhabkunda Waterfall",
+      "মাধবকুণ্ড জলপ্রপাত"
+    ],
+    "image": "destination-19.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/loc/sylhet/120",
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://beautifulbangladesh.gov.bd/loc/sylhet/120"
+      }
+    ],
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Madhabkunda waterfall in Bangladesh.",
+      "bn": "বাংলাদেশের মাধবকুণ্ড জলপ্রপাত।"
+    },
+    "photoCredit": {
+      "name": "Balaram Mahalder",
+      "source": "https://commons.wikimedia.org/wiki/File:Madhabkunda_waterfall_in_Bangladesh.jpg",
+      "license": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  {
+    "id": "20",
+    "name": {
+      "en": "Inani Beach",
+      "bn": "ইনানী সৈকত"
+    },
+    "district": {
+      "en": "Cox’s Bazar",
+      "bn": "কক্সবাজার"
+    },
+    "region": "Chattogram",
+    "regionBn": "চট্টগ্রাম",
+    "category": "beach",
+    "lat": 21.229,
+    "lng": 92.049,
+    "description": {
+      "en": "A coastal stop south of Cox’s Bazar, with distinctive stone formations and views over the Bay of Bengal.",
+      "bn": "কক্সবাজারের দক্ষিণে উপকূলীয় গন্তব্য। স্বতন্ত্র পাথরের বিন্যাস ও বঙ্গোপসাগরের দৃশ্য এর আকর্ষণ।"
+    },
+    "background": {
+      "en": "Inani offers a different shoreline experience from the busiest town beaches of Cox’s Bazar. Stone formations and coastal scenery are central to its appeal. Do not assume the water is safe for swimming; follow local advice.",
+      "bn": "কক্সবাজারের ব্যস্ত শহুরে সৈকতের তুলনায় ইনানীর তীরের অভিজ্ঞতা আলাদা। পাথরের বিন্যাস ও উপকূলীয় দৃশ্য মূল আকর্ষণ। সাঁতারের জন্য পানি নিরাপদ ধরে নেবেন না; স্থানীয় পরামর্শ মানুন।"
+    },
+    "travel": {
+      "en": "Travel to the Cox’s Bazar area, then arrange local transport to Inani Beach. Confirm the current route, entrance point and visitor arrangements before departure.",
+      "bn": "কক্সবাজার এলাকায় পৌঁছে স্থানীয় পরিবহনের ব্যবস্থা করুন। যাত্রার আগে বর্তমান পথ, প্রবেশপথ ও দর্শনার্থীর ব্যবস্থা নিশ্চিত করুন।"
+    },
+    "highlights": {
+      "en": [
+        "Inani Beach",
+        "Visitor setting"
+      ],
+      "bn": [
+        "ইনানী সৈকত",
+        "গন্তব্যের পরিবেশ"
+      ]
+    },
+    "visitorInfo": {
+      "en": "Current opening hours, fees and access arrangements have not been verified. Confirm with official sources before travelling.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Inani Beach",
+      "ইনানী সৈকত"
+    ],
+    "image": "inani.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/newsletter/single/207",
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://beautifulbangladesh.gov.bd/newsletter/single/207"
+      }
+    ],
+    "checked": "2026-10-02",
+    "credit": "inani",
+    "photoCaption": {
+      "en": "Inani Beach at sunset",
+      "bn": "সূর্যাস্তে ইনানী সৈকত"
+    },
+    "photoCredit": {
+      "name": "Tanvir Rahat",
+      "source": "https://commons.wikimedia.org/wiki/File:Inani_Beach,_Coxs_Bazar,_Bangladesh_11.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "21",
+    "name": {
+      "en": "Mainamati War Cemetery",
+      "bn": "ময়নামতি যুদ্ধ সমাধিক্ষেত্র"
+    },
+    "district": {
+      "en": "Cumilla",
+      "bn": "কুমিল্লা"
+    },
+    "region": "Chattogram",
+    "regionBn": "চট্টগ্রাম",
+    "category": "landmark",
+    "lat": 23.479,
+    "lng": 91.119,
+    "description": {
+      "en": "A Second World War cemetery in Cumilla, preserving graves and remembrance within a carefully maintained setting.",
+      "bn": "কুমিল্লার দ্বিতীয় বিশ্বযুদ্ধের সমাধিক্ষেত্র। যত্নে রক্ষিত পরিবেশে সমাধি ও স্মৃতি সংরক্ষিত আছে।"
+    },
+    "background": {
+      "en": "This cemetery connects Cumilla with the wider history of the Second World War. Its graves and commemorative setting offer a place to consider the human cost of conflict. It is a remembrance site; behave quietly and respectfully.",
+      "bn": "এই সমাধিক্ষেত্র কুমিল্লাকে দ্বিতীয় বিশ্বযুদ্ধের বৃহত্তর ইতিহাসের সঙ্গে যুক্ত করে। সমাধি ও স্মরণমূলক পরিবেশ যুদ্ধের মানবিক ক্ষতি ভাবার স্থান। এটি স্মরণের স্থান; নীরবে ও শ্রদ্ধার সঙ্গে চলুন।"
+    },
+    "travel": {
+      "en": "Travel to the Cumilla area, then arrange local transport to Mainamati War Cemetery. Confirm the current route, entrance point and visitor arrangements before departure.",
+      "bn": "কুমিল্লা এলাকায় পৌঁছে স্থানীয় পরিবহনের ব্যবস্থা করুন। যাত্রার আগে বর্তমান পথ, প্রবেশপথ ও দর্শনার্থীর ব্যবস্থা নিশ্চিত করুন।"
+    },
+    "highlights": {
+      "en": [
+        "Mainamati War Cemetery",
+        "Visitor setting"
+      ],
+      "bn": [
+        "ময়নামতি যুদ্ধ সমাধিক্ষেত্র",
+        "গন্তব্যের পরিবেশ"
+      ]
+    },
+    "visitorInfo": {
+      "en": "Current opening hours, fees and access arrangements have not been verified. Confirm with official sources before travelling.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Mainamati War Cemetery",
+      "ময়নামতি যুদ্ধ সমাধিক্ষেত্র"
+    ],
+    "image": "destination-21.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/newsletter/single/454",
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://beautifulbangladesh.gov.bd/newsletter/single/454"
+      }
+    ],
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Mainamati War Cemetery, Cumilla",
+      "bn": "ময়নামতি ওয়ার সিমেট্রি, কুমিল্লা"
+    },
+    "photoCredit": {
+      "name": "Namhar lehos",
+      "source": "https://commons.wikimedia.org/wiki/File:2nd_world_war_cemetery%2C_comilla.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "22",
+    "name": {
+      "en": "Sajek Valley",
+      "bn": "সাজেক ভ্যালি"
+    },
+    "district": {
+      "en": "Rangamati",
+      "bn": "রাঙ্গামাটি"
+    },
+    "region": "Chattogram",
+    "regionBn": "চট্টগ্রাম",
+    "category": "hill",
+    "lat": 23.381,
+    "lng": 92.294,
+    "description": {
+      "en": "A hill destination in Baghaichhari, Rangamati, known for ridge scenery and views across the surrounding hill country.",
+      "bn": "রাঙ্গামাটির বাঘাইছড়ির পাহাড়ি গন্তব্য। পাহাড়ের সারি ও আশপাশের পাহাড়ি প্রকৃতি এর আকর্ষণ।"
+    },
+    "background": {
+      "en": "Sajek is in Rangamati district, although many journeys approach through Khagrachhari. The landscape is also home to local communities. Confirm current access arrangements before departure and respect local customs and privacy.",
+      "bn": "সাজেক রাঙ্গামাটি জেলায়, যদিও অনেক যাত্রা খাগড়াছড়ি হয়ে যায়। এখানে স্থানীয় জনগোষ্ঠীর বসতিও রয়েছে। যাত্রার আগে বর্তমান প্রবেশের ব্যবস্থা নিশ্চিত করুন এবং স্থানীয় রীতি ও গোপনীয়তা সম্মান করুন।"
+    },
+    "travel": {
+      "en": "Many journeys approach through Khagrachhari. Confirm local access guidance, permitted travel arrangements and weather before setting out.",
+      "bn": "অনেক যাত্রা খাগড়াছড়ি হয়ে যায়। আগে স্থানীয় প্রবেশবিধি, অনুমোদিত যাত্রার ব্যবস্থা ও আবহাওয়া নিশ্চিত করুন।"
+    },
+    "highlights": {
+      "en": [
+        "Sajek Valley",
+        "Regional scenery"
+      ],
+      "bn": [
+        "সাজেক ভ্যালি",
+        "আঞ্চলিক প্রকৃতি"
+      ]
+    },
+    "visitorInfo": {
+      "en": "Current opening hours, fees and access arrangements have not been verified. Confirm with official sources before travelling.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Sajek Valley",
+      "সাজেক ভ্যালি"
+    ],
+    "image": "sajek.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/district-destination/rangamati/hill-tracts-waterfalls/11",
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://beautifulbangladesh.gov.bd/district-destination/rangamati/hill-tracts-waterfalls/11"
+      }
+    ],
+    "checked": "2026-10-02",
+    "credit": "sajek",
+    "photoCaption": {
+      "en": "Sajek Valley at sunrise",
+      "bn": "সূর্যোদয়ে সাজেক ভ্যালি"
+    },
+    "photoCredit": {
+      "name": "G.B. G.Son",
+      "source": "https://commons.wikimedia.org/wiki/File:Of_Serene_Sajek_Valley.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "23",
+    "name": {
+      "en": "Nilgiri",
+      "bn": "নীলগিরি"
+    },
+    "district": {
+      "en": "Bandarban",
+      "bn": "বান্দরবান"
+    },
+    "region": "Chattogram",
+    "regionBn": "চট্টগ্রাম",
+    "category": "hill",
+    "lat": 21.913,
+    "lng": 92.326,
+    "description": {
+      "en": "A hill viewpoint in Bandarban, associated with broad mountain scenery and cloud-covered landscapes.",
+      "bn": "বান্দরবানের পাহাড়ি ভিউপয়েন্ট। বিস্তৃত পাহাড় ও মেঘঘেরা প্রকৃতির জন্য পরিচিত।"
+    },
+    "background": {
+      "en": "Nilgiri is a scenic hill destination in Bandarban. Changing weather affects visibility, so mountain and cloud views vary by the day. Check current local travel guidance and access arrangements rather than assuming unrestricted entry.",
+      "bn": "নীলগিরি বান্দরবানের প্রাকৃতিক পাহাড়ি গন্তব্য। আবহাওয়া অনুযায়ী দৃশ্যমানতা বদলে যায়; পাহাড় ও মেঘের দৃশ্য প্রতিদিন এক নয়। অবাধ প্রবেশ ধরে না নিয়ে বর্তমান স্থানীয় নির্দেশনা যাচাই করুন।"
+    },
+    "travel": {
+      "en": "Travel to the Bandarban area, then arrange local transport to Nilgiri. Confirm the current route, entrance point and visitor arrangements before departure.",
+      "bn": "বান্দরবান এলাকায় পৌঁছে স্থানীয় পরিবহনের ব্যবস্থা করুন। যাত্রার আগে বর্তমান পথ, প্রবেশপথ ও দর্শনার্থীর ব্যবস্থা নিশ্চিত করুন।"
+    },
+    "highlights": {
+      "en": [
+        "Nilgiri",
+        "Regional scenery"
+      ],
+      "bn": [
+        "নীলগিরি",
+        "আঞ্চলিক প্রকৃতি"
+      ]
+    },
+    "visitorInfo": {
+      "en": "Current opening hours, fees and access arrangements have not been verified. Confirm with official sources before travelling.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Nilgiri",
+      "নীলগিরি"
+    ],
+    "image": "destination-23.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/district-destination/bandarban/hill-tracts-waterfalls/9",
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://beautifulbangladesh.gov.bd/district-destination/bandarban/hill-tracts-waterfalls/9"
+      }
+    ],
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Hills at Nilgiri, Bandarban",
+      "bn": "নীলগিরির পাহাড়, বান্দরবান"
+    },
+    "photoCredit": {
+      "name": "Tanvir Rahat",
+      "source": "https://commons.wikimedia.org/wiki/File:Nilgiri%2C_Bandarban%2C_Bangladesh.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "24",
+    "name": {
+      "en": "Tajhat Palace",
+      "bn": "তাজহাট রাজবাড়ি"
+    },
+    "district": {
+      "en": "Rangpur",
+      "bn": "রংপুর"
+    },
+    "region": "Rangpur",
+    "regionBn": "রংপুর",
+    "category": "history",
+    "lat": 25.72,
+    "lng": 89.283,
+    "description": {
+      "en": "A historic palace near Rangpur city, associated with the region’s architectural heritage and museum collections.",
+      "bn": "রংপুর শহরের কাছের ঐতিহাসিক রাজবাড়ি। অঞ্চলের স্থাপত্য ঐতিহ্য ও জাদুঘরের সংগ্রহের সঙ্গে সম্পর্কিত।"
+    },
+    "background": {
+      "en": "Tajhat Palace is one of Rangpur’s recognisable heritage buildings. Its formal palace frontage and museum use make it a stop for architecture and regional history. Confirm which spaces and collections are open when planning your visit.",
+      "bn": "তাজহাট রাজবাড়ি রংপুরের পরিচিত ঐতিহ্য ভবন। প্রাসাদের সম্মুখভাগ ও জাদুঘর স্থাপত্য ও আঞ্চলিক ইতিহাস জানার সুযোগ দেয়। ভ্রমণের আগে কোন অংশ ও সংগ্রহ খোলা আছে নিশ্চিত করুন।"
+    },
+    "travel": {
+      "en": "Travel to the Rangpur area, then arrange local transport to Tajhat Palace. Confirm the current route, entrance point and visitor arrangements before departure.",
+      "bn": "রংপুর এলাকায় পৌঁছে স্থানীয় পরিবহনের ব্যবস্থা করুন। যাত্রার আগে বর্তমান পথ, প্রবেশপথ ও দর্শনার্থীর ব্যবস্থা নিশ্চিত করুন।"
+    },
+    "highlights": {
+      "en": [
+        "Tajhat Palace",
+        "Local heritage"
+      ],
+      "bn": [
+        "তাজহাট রাজবাড়ি",
+        "স্থানীয় ঐতিহ্য"
+      ]
+    },
+    "visitorInfo": {
+      "en": "Current opening hours, fees and access arrangements have not been verified. Confirm with official sources before travelling.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Tajhat Palace",
+      "তাজহাট রাজবাড়ি"
+    ],
+    "image": "tajhat.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/loc/rangpur/61",
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://beautifulbangladesh.gov.bd/loc/rangpur/61"
+      }
+    ],
+    "checked": "2026-10-02",
+    "credit": "tajhat",
+    "photoCaption": {
+      "en": "Tajhat Palace",
+      "bn": "তাজহাট প্রাসাদ"
+    },
+    "photoCredit": {
+      "name": "Moheen Reeyad",
+      "source": "https://commons.wikimedia.org/wiki/File:Tajhat_Palace_(01).jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "25",
+    "name": {
+      "en": "Kantajew Temple",
+      "bn": "কান্তজিউ মন্দির"
+    },
+    "district": {
+      "en": "Dinajpur",
+      "bn": "দিনাজপুর"
+    },
+    "region": "Rangpur",
+    "regionBn": "রংপুর",
+    "category": "history",
+    "lat": 25.791,
+    "lng": 88.666,
+    "description": {
+      "en": "A historic Hindu temple at Kantanagar in Dinajpur, celebrated for its detailed terracotta decoration.",
+      "bn": "দিনাজপুরের কান্তনগরের ঐতিহাসিক হিন্দু মন্দির। সূক্ষ্ম পোড়ামাটির অলংকরণের জন্য পরিচিত।"
+    },
+    "background": {
+      "en": "Also called Kantaji Temple, this monument is associated with Krishna worship and the region’s royal heritage. Terracotta panels are a major part of its artistic character. Observe details respectfully without touching fragile decoration.",
+      "bn": "কান্তজি মন্দির নামেও পরিচিত এ নিদর্শন কৃষ্ণ উপাসনা ও অঞ্চলের রাজকীয় ঐতিহ্যের সঙ্গে যুক্ত। পোড়ামাটির ফলক এর শিল্পবৈশিষ্ট্যের গুরুত্বপূর্ণ অংশ। ভঙ্গুর অলংকরণ স্পর্শ না করে সম্মানের সঙ্গে দেখুন।"
+    },
+    "travel": {
+      "en": "Travel to the Dinajpur area, then arrange local transport to Kantajew Temple. Confirm the current route, entrance point and visitor arrangements before departure.",
+      "bn": "দিনাজপুর এলাকায় পৌঁছে স্থানীয় পরিবহনের ব্যবস্থা করুন। যাত্রার আগে বর্তমান পথ, প্রবেশপথ ও দর্শনার্থীর ব্যবস্থা নিশ্চিত করুন।"
+    },
+    "highlights": {
+      "en": [
+        "Kantajew Temple",
+        "Local heritage"
+      ],
+      "bn": [
+        "কান্তজিউ মন্দির",
+        "স্থানীয় ঐতিহ্য"
+      ]
+    },
+    "visitorInfo": {
+      "en": "Current opening hours, fees and access arrangements have not been verified. Confirm with official sources before travelling.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Kantajew Temple",
+      "কান্তজিউ মন্দির"
+    ],
+    "image": "destination-25.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/newsletter/single/196",
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://beautifulbangladesh.gov.bd/newsletter/single/196"
+      }
+    ],
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Kantajew Temple, Dinajpur",
+      "bn": "কান্তজিউ মন্দির, দিনাজপুর"
+    },
+    "photoCredit": {
+      "name": "Md. Rifat Hasan Jihan",
+      "source": "https://commons.wikimedia.org/wiki/File:Kantajew_Temple%2C_Dinajpur%2C_Bangladesh_%28isometric_view%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "26",
+    "name": {
+      "en": "Ramsagar National Park",
+      "bn": "রামসাগর জাতীয় উদ্যান"
+    },
+    "district": {
+      "en": "Dinajpur",
+      "bn": "দিনাজপুর"
+    },
+    "region": "Rangpur",
+    "regionBn": "রংপুর",
+    "category": "lake",
+    "lat": 25.593,
+    "lng": 88.623,
+    "description": {
+      "en": "A large historic man-made lake and green recreation area near Dinajpur town.",
+      "bn": "দিনাজপুর শহরের কাছে বড় ঐতিহাসিক মানবসৃষ্ট দিঘি ও সবুজ বিনোদন এলাকা।"
+    },
+    "background": {
+      "en": "Ramsagar combines an old water reservoir with a park setting. The open water and surrounding greenery offer a contrast to Dinajpur’s built heritage. Treat it as a waterside outing and check local visitor rules.",
+      "bn": "রামসাগরে পুরোনো জলাধার ও উদ্যানের পরিবেশ একসঙ্গে রয়েছে। খোলা পানি ও সবুজ প্রকৃতি দিনাজপুরের স্থাপত্য ঐতিহ্যের ভিন্ন অভিজ্ঞতা দেয়। জলাশয়ের ভ্রমণ হিসেবে পরিকল্পনা করুন ও স্থানীয় নিয়ম যাচাই করুন।"
+    },
+    "travel": {
+      "en": "Travel to the Dinajpur area, then arrange local transport to Ramsagar National Park. Confirm the current route, entrance point and visitor arrangements before departure.",
+      "bn": "দিনাজপুর এলাকায় পৌঁছে স্থানীয় পরিবহনের ব্যবস্থা করুন। যাত্রার আগে বর্তমান পথ, প্রবেশপথ ও দর্শনার্থীর ব্যবস্থা নিশ্চিত করুন।"
+    },
+    "highlights": {
+      "en": [
+        "Ramsagar National Park",
+        "Regional scenery"
+      ],
+      "bn": [
+        "রামসাগর জাতীয় উদ্যান",
+        "আঞ্চলিক প্রকৃতি"
+      ]
+    },
+    "visitorInfo": {
+      "en": "Current opening hours, fees and access arrangements have not been verified. Confirm with official sources before travelling.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Ramsagar National Park",
+      "রামসাগর জাতীয় উদ্যান"
+    ],
+    "image": "destination-26.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/district-destination/dinajpur/green-zone/63",
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://beautifulbangladesh.gov.bd/district-destination/dinajpur/green-zone/63"
+      }
+    ],
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Panorama of Ramsagar lake, Dinajpur",
+      "bn": "রামসাগর হ্রদের প্যানোরামা, দিনাজপুর"
+    },
+    "photoCredit": {
+      "name": "Salim_Khandoker",
+      "source": "https://commons.wikimedia.org/wiki/File:Ramsagar_Dinajpur_.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "27",
+    "name": {
+      "en": "Shashi Lodge",
+      "bn": "শশী লজ"
+    },
+    "district": {
+      "en": "Mymensingh",
+      "bn": "ময়মনসিংহ"
+    },
+    "region": "Mymensingh",
+    "regionBn": "ময়মনসিংহ",
+    "category": "history",
+    "lat": 24.757,
+    "lng": 90.405,
+    "description": {
+      "en": "A palace building in Mymensingh connected with the Muktagacha zamindar family, with ornamental grounds and historic architecture.",
+      "bn": "মুক্তাগাছার জমিদার পরিবারের সঙ্গে সম্পর্কিত ময়মনসিংহের প্রাসাদ ভবন। অলংকৃত প্রাঙ্গণ ও ঐতিহাসিক স্থাপত্য রয়েছে।"
+    },
+    "background": {
+      "en": "Shashi Lodge was built under Suryakanta Acharya Chowdhury and named for his adopted son. Its palace frontage, lawn and ornamental fountain are part of the site’s character. Confirm current access to the building and grounds.",
+      "bn": "শশী লজ সূর্যকান্ত আচার্য চৌধুরীর সময় নির্মিত এবং তাঁর দত্তক পুত্রের নামে নামকরণ করা হয়। প্রাসাদের সম্মুখভাগ, মাঠ ও অলংকৃত ফোয়ারা এর বৈশিষ্ট্য। ভবন ও প্রাঙ্গণে প্রবেশের ব্যবস্থা যাচাই করুন।"
+    },
+    "travel": {
+      "en": "Travel to the Mymensingh area, then arrange local transport to Shashi Lodge. Confirm the current route, entrance point and visitor arrangements before departure.",
+      "bn": "ময়মনসিংহ এলাকায় পৌঁছে স্থানীয় পরিবহনের ব্যবস্থা করুন। যাত্রার আগে বর্তমান পথ, প্রবেশপথ ও দর্শনার্থীর ব্যবস্থা নিশ্চিত করুন।"
+    },
+    "highlights": {
+      "en": [
+        "Shashi Lodge",
+        "Local heritage"
+      ],
+      "bn": [
+        "শশী লজ",
+        "স্থানীয় ঐতিহ্য"
+      ]
+    },
+    "visitorInfo": {
+      "en": "Current opening hours, fees and access arrangements have not been verified. Confirm with official sources before travelling.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Shashi Lodge",
+      "শশী লজ"
+    ],
+    "image": "destination-27.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/index.php/district-destination/mymensingh/heritage/71",
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://beautifulbangladesh.gov.bd/index.php/district-destination/mymensingh/heritage/71"
+      }
+    ],
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Shashi Lodge, Mymensingh",
+      "bn": "শশী লজ, ময়মনসিংহ"
+    },
+    "photoCredit": {
+      "name": "Ankan Ghosh Dastider",
+      "source": "https://commons.wikimedia.org/wiki/File:Buildings_of_Shashi_Lodge.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "28",
+    "name": {
+      "en": "Muktagacha Zamindar Bari",
+      "bn": "মুক্তাগাছা জমিদারবাড়ি"
+    },
+    "district": {
+      "en": "Mymensingh",
+      "bn": "ময়মনসিংহ"
+    },
+    "region": "Mymensingh",
+    "regionBn": "ময়মনসিংহ",
+    "category": "history",
+    "lat": 24.767,
+    "lng": 90.257,
+    "description": {
+      "en": "A historic zamindar residence in Muktagacha, offering a view of the area’s landed-estate heritage.",
+      "bn": "মুক্তাগাছার ঐতিহাসিক জমিদারবাড়ি। এলাকার জমিদারি ঐতিহ্যের পরিচয় দেয়।"
+    },
+    "background": {
+      "en": "The Muktagacha estate forms part of the historical landscape of Mymensingh. Its surviving buildings offer architectural details and context for the region’s zamindar families. Keep to open areas and respect conservation restrictions.",
+      "bn": "মুক্তাগাছা জমিদারবাড়ি ময়মনসিংহের ঐতিহাসিক অঞ্চলের অংশ। টিকে থাকা ভবন স্থাপত্য ও জমিদার পরিবারের প্রেক্ষাপট জানায়। খোলা অংশে থাকুন এবং সংরক্ষণের বিধিনিষেধ মানুন।"
+    },
+    "travel": {
+      "en": "Travel to the Mymensingh area, then arrange local transport to Muktagacha Zamindar Bari. Confirm the current route, entrance point and visitor arrangements before departure.",
+      "bn": "ময়মনসিংহ এলাকায় পৌঁছে স্থানীয় পরিবহনের ব্যবস্থা করুন। যাত্রার আগে বর্তমান পথ, প্রবেশপথ ও দর্শনার্থীর ব্যবস্থা নিশ্চিত করুন।"
+    },
+    "highlights": {
+      "en": [
+        "Muktagacha Zamindar Bari",
+        "Local heritage"
+      ],
+      "bn": [
+        "মুক্তাগাছা জমিদারবাড়ি",
+        "স্থানীয় ঐতিহ্য"
+      ]
+    },
+    "visitorInfo": {
+      "en": "Current opening hours, fees and access arrangements have not been verified. Confirm with official sources before travelling.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Muktagacha Zamindar Bari",
+      "মুক্তাগাছা জমিদারবাড়ি"
+    ],
+    "image": "destination-28.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/district-destination/mymensingh/heritage/73",
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://beautifulbangladesh.gov.bd/district-destination/mymensingh/heritage/73"
+      }
+    ],
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "A building of Muktagacha Zamindar Bari, Mymensingh",
+      "bn": "মুক্তাগাছা জমিদার বাড়ির একটি ভবন, ময়মনসিংহ"
+    },
+    "photoCredit": {
+      "name": "SanjayBeen",
+      "source": "https://commons.wikimedia.org/wiki/File:Two_storied_building_of_Muktagacha_Zamindar_Bari.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "29",
+    "name": {
+      "en": "Puthia Rajbari",
+      "bn": "পুঠিয়া রাজবাড়ি"
+    },
+    "district": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
+    "region": "Rajshahi",
+    "regionBn": "রাজশাহী",
+    "category": "history",
+    "lat": 24.366,
+    "lng": 88.838,
+    "description": {
+      "en": "A historic palace in Puthia, within a wider landscape of heritage buildings and temples east of Rajshahi city.",
+      "bn": "রাজশাহী শহরের পূর্বে পুঠিয়ার ঐতিহাসিক রাজবাড়ি। আশপাশে ঐতিহ্য ভবন ও মন্দির রয়েছে।"
+    },
+    "background": {
+      "en": "Puthia is a useful destination for exploring the relationship between palace architecture and religious heritage. The Rajbari is one stop within the wider area, not the whole complex. Allow time to understand the distinct buildings and their uses.",
+      "bn": "পুঠিয়ায় প্রাসাদের স্থাপত্য ও ধর্মীয় ঐতিহ্যের সম্পর্ক বোঝা যায়। রাজবাড়ি বিস্তৃত এলাকার একটি গন্তব্য; পুরো কমপ্লেক্স নয়। পৃথক ভবন ও তাদের ব্যবহার জানার জন্য সময় রাখুন।"
+    },
+    "travel": {
+      "en": "Travel to the Rajshahi area, then arrange local transport to Puthia Rajbari. Confirm the current route, entrance point and visitor arrangements before departure.",
+      "bn": "রাজশাহী এলাকায় পৌঁছে স্থানীয় পরিবহনের ব্যবস্থা করুন। যাত্রার আগে বর্তমান পথ, প্রবেশপথ ও দর্শনার্থীর ব্যবস্থা নিশ্চিত করুন।"
+    },
+    "highlights": {
+      "en": [
+        "Puthia Rajbari",
+        "Local heritage"
+      ],
+      "bn": [
+        "পুঠিয়া রাজবাড়ি",
+        "স্থানীয় ঐতিহ্য"
+      ]
+    },
+    "visitorInfo": {
+      "en": "Current opening hours, fees and access arrangements have not been verified. Confirm with official sources before travelling.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Puthia Rajbari",
+      "পুঠিয়া রাজবাড়ি"
+    ],
+    "image": "destination-29.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/district-destination/rajshahi/heritage/114",
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://beautifulbangladesh.gov.bd/district-destination/rajshahi/heritage/114"
+      }
+    ],
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Front view of Puthia Rajbari, Rajshahi",
+      "bn": "পুঠিয়া রাজবাড়ির সামনের দৃশ্য, রাজশাহী"
+    },
+    "photoCredit": {
+      "name": "Masum-al-Hasan Rocky",
+      "source": "https://commons.wikimedia.org/wiki/File:Front_view_of_Puthia_Rajbari_%284%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "30",
+    "name": {
+      "en": "Varendra Research Museum",
+      "bn": "বরেন্দ্র গবেষণা জাদুঘর"
+    },
+    "district": {
+      "en": "Rajshahi",
+      "bn": "রাজশাহী"
+    },
+    "region": "Rajshahi",
+    "regionBn": "রাজশাহী",
+    "category": "history",
+    "lat": 24.365,
+    "lng": 88.599,
+    "description": {
+      "en": "A museum in Rajshahi associated with the study and preservation of Bengal’s archaeological and historical heritage.",
+      "bn": "রাজশাহীর জাদুঘর; বাংলার প্রত্নতাত্ত্বিক ও ঐতিহাসিক ঐতিহ্যের গবেষণা ও সংরক্ষণের সঙ্গে যুক্ত।"
+    },
+    "background": {
+      "en": "The museum adds context to visits to northern Bangladesh’s archaeological sites. Its collections help connect monuments with the material history of Bengal. Check current gallery access and photography rules before your visit.",
+      "bn": "জাদুঘর উত্তর বাংলাদেশের প্রত্নস্থল ভ্রমণের প্রেক্ষাপট জানতে সাহায্য করে। সংগ্রহের মাধ্যমে বাংলার ইতিহাসের সঙ্গে নিদর্শনের সম্পর্ক বোঝা যায়। আগে গ্যালারিতে প্রবেশ ও ছবি তোলার নিয়ম যাচাই করুন।"
+    },
+    "travel": {
+      "en": "Travel to the Rajshahi area, then arrange local transport to Varendra Research Museum. Confirm the current route, entrance point and visitor arrangements before departure.",
+      "bn": "রাজশাহী এলাকায় পৌঁছে স্থানীয় পরিবহনের ব্যবস্থা করুন। যাত্রার আগে বর্তমান পথ, প্রবেশপথ ও দর্শনার্থীর ব্যবস্থা নিশ্চিত করুন।"
+    },
+    "highlights": {
+      "en": [
+        "Varendra Research Museum",
+        "Local heritage"
+      ],
+      "bn": [
+        "বরেন্দ্র গবেষণা জাদুঘর",
+        "স্থানীয় ঐতিহ্য"
+      ]
+    },
+    "visitorInfo": {
+      "en": "Current opening hours, fees and access arrangements have not been verified. Confirm with official sources before travelling.",
+      "bn": "বর্তমান সময়সূচি, প্রবেশমূল্য ও প্রবেশের ব্যবস্থা যাচাই করা হয়নি। ভ্রমণের আগে সরকারি উৎস থেকে নিশ্চিত করুন।"
+    },
+    "unesco": false,
+    "aliases": [
+      "Varendra Research Museum",
+      "বরেন্দ্র গবেষণা জাদুঘর"
+    ],
+    "image": "destination-30.jpg",
+    "source": "https://beautifulbangladesh.gov.bd/district-destination/rajshahi/landmarks/119",
+    "sources": [
+      {
+        "name": "Bangladesh Tourism Board",
+        "url": "https://beautifulbangladesh.gov.bd/district-destination/rajshahi/landmarks/119"
+      }
+    ],
+    "checked": "2026-10-02",
+    "photoCaption": {
+      "en": "Varendra Research Museum, Rajshahi",
+      "bn": "বরেন্দ্র গবেষণা জাদুঘর, রাজশাহী"
+    },
+    "photoCredit": {
+      "name": "Nahid.rajbd",
+      "source": "https://commons.wikimedia.org/wiki/File:Varendra_Research_Museum%2C_Rajshahi_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  }
+]
