@@ -20,7 +20,7 @@ Open http://localhost:8000. No API key or build is required.
 - `public/assets/images/`: destination photographs
 - `public/assets/data/destinations.json`: bilingual guides, sources and image credits
 - `public/assets/vendor/leaflet/`: third-party map library
-- `docs/`: project screenshots and photo attribution
+- `docs/`: photo attribution
 - `scripts/build.py`: copies the deployable website into `dist/`
 
 ## Build
@@ -32,9 +32,7 @@ python3 scripts/build.py
 ## Credits
 
 Photographs retain their individual licenses. See [image credits](docs/IMAGE_CREDITS.md). Leaflet uses its BSD 2-Clause license. Maps use OpenStreetMap tiles and attribution.
+## Product screenshot
 
-## Project screenshot
+![Explore Bangladesh homepage](docs/screenshots/product-home.jpg)
 
-The organized source folders and project documentation:
-
-![Project structure and README](docs/screenshots/project-structure.jpg)
