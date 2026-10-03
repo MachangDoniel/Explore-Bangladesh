@@ -32,3 +32,9 @@ python3 scripts/build.py
 ## Credits
 
 Photographs retain their individual licenses. See [image credits](docs/IMAGE_CREDITS.md). Leaflet uses its BSD 2-Clause license. Maps use OpenStreetMap tiles and attribution.
+
+## Project screenshot
+
+The organized source folders and project documentation:
+
+![Project structure and README](docs/screenshots/project-structure.jpg)
