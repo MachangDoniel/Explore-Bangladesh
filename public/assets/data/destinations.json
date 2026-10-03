@@ -29,7 +29,7 @@
       "cox bazar",
       "coxs bazar"
     ],
-    "image": "coxs-bazar.jpg",
+    "image": "assets/images/coxs-bazar.jpg",
     "source": "https://www.beautifulbangladesh.gov.bd/cat/spring/12",
     "credit": "coxs",
     "background": {
@@ -92,7 +92,7 @@
       "The Sundarbans",
       "সুন্দরবন"
     ],
-    "image": "destination-2.jpg",
+    "image": "assets/images/destination-2.jpg",
     "source": "https://whc.unesco.org/en/list/798",
     "background": {
       "en": "The Sundarbans is a landscape of mangrove islands and tidal channels shared across Bangladesh and India. The Bangladesh World Heritage property protects important forest and wildlife habitats. Explore it through an organised boat journey; the destination pin represents a broad forest area, not a visitor entrance.",
@@ -160,7 +160,7 @@
       "srimangal",
       "স্রীমঙ্গল"
     ],
-    "image": "sylhet.jpg",
+    "image": "assets/images/sylhet.jpg",
     "source": "https://beautifulbangladesh.gov.bd/loc/sylhet",
     "credit": "sylhet",
     "background": {
@@ -227,7 +227,7 @@
       "Kaptai Lake & Rangamati",
       "কাপ্তাই হ্রদ ও রাঙ্গামাটি"
     ],
-    "image": "destination-4.jpg",
+    "image": "assets/images/destination-4.jpg",
     "source": "https://www.rangamati.gov.bd/en/site/view/tourist_spot",
     "background": {
       "en": "Rangamati’s landscape brings together lake waters, hills and living cultural traditions. The hanging bridge is a recognisable local landmark, while Rajban Vihara is a Buddhist religious site within the town. These are different stops: allow for local transport and treat religious spaces as places of worship.",
@@ -293,7 +293,7 @@
       "Kuakata",
       "কুয়াকাটা"
     ],
-    "image": "destination-5.jpg",
+    "image": "assets/images/destination-5.jpg",
     "source": "https://beautifulbangladesh.gov.bd/district-destination/patuakhali/sea-beaches/20",
     "background": {
       "en": "Kuakata is a southern coastal destination in Patuakhali, also known as Sagar Kannya. Its open coastline is associated with sunrise and sunset views over the sea. The surrounding area includes Buddhist religious heritage and coastal greenery; respect worshippers when visiting religious sites.",
@@ -359,7 +359,7 @@
       "Khagrachhari",
       "খাগড়াছড়ি"
     ],
-    "image": "destination-6.jpg",
+    "image": "assets/images/destination-6.jpg",
     "source": "https://www.khagrachhari.gov.bd/bn/site/tourist_spot/নন্দনকানন",
     "background": {
       "en": "Khagrachhari is a hill district with diverse Indigenous communities and distinctive landscapes. Alutila Tourism Park is a local attraction associated with hill scenery and a natural cave. This guide’s pin marks the town area; confirm the exact stop and access guidance for any outing beyond town.",
@@ -427,7 +427,7 @@
       "somapura mahavihara",
       "সোমপুর মহাবিহার"
     ],
-    "image": "paharpur.jpg",
+    "image": "assets/images/paharpur.jpg",
     "source": "https://whc.unesco.org/en/list/322",
     "credit": "paharpur",
     "background": {
@@ -492,7 +492,7 @@
       "sixty dome mosque",
       "ষাট গম্বুজ মসজিদ"
     ],
-    "image": "destination-8.jpg",
+    "image": "assets/images/destination-8.jpg",
     "source": "https://whc.unesco.org/en/list/321",
     "background": {
       "en": "The historic city, formerly called Khalifatabad, developed under Khan Jahan in the fifteenth century. Its heritage includes brick mosques, tombs, roads and water infrastructure. The Sixty Dome Mosque and Khan Jahan’s tomb are key monuments within a wider historic landscape, rather than a single enclosed attraction.",
@@ -558,7 +558,7 @@
       "Lalbagh Fort",
       "লালবাগ কেল্লা"
     ],
-    "image": "destination-9.jpg",
+    "image": "assets/images/destination-9.jpg",
     "source": "https://www.beautifulbangladesh.gov.bd/cat/heritage/4",
     "background": {
       "en": "Construction of Lalbagh Fort began in 1678 under Prince Muhammad Azam. The unfinished Mughal complex includes Pari Bibi’s tomb, a mosque, and an audience hall with a hammam. Its surviving structures make it a useful introduction to Mughal architecture in Dhaka.",
@@ -624,7 +624,7 @@
       "Panam City",
       "পানাম নগর"
     ],
-    "image": "destination-10.jpg",
+    "image": "assets/images/destination-10.jpg",
     "source": "https://beautifulbangladesh.gov.bd/loc/dhaka/113",
     "background": {
       "en": "Panam City is part of the historic Sonargaon area in Narayanganj. The surviving street-front buildings express its architectural and trading heritage. Look at facades and the relationship between the buildings and street, while respecting restricted or fragile structures. Sonargaon’s folk-art museum is a separate stop in the surrounding area.",
@@ -690,7 +690,7 @@
       "Mahasthangarh",
       "মহাস্থানগড়"
     ],
-    "image": "destination-11.jpg",
+    "image": "assets/images/destination-11.jpg",
     "source": "https://whc.unesco.org/en/tentativelists/6671/",
     "background": {
       "en": "Mahasthangarh preserves the remains of ancient Pundranagara near present-day Bogura. Its fortified settlement and archaeological finds help explain early urban life in Bengal. The surrounding cultural landscape is also connected with the Karatoya River. It is on UNESCO’s Tentative List, which is different from World Heritage inscription.",
@@ -756,7 +756,7 @@
       "Ahsan Manzil",
       "আহসান মঞ্জিল"
     ],
-    "image": "destination-12.jpg",
+    "image": "assets/images/destination-12.jpg",
     "source": "https://www.ahsanmanzil.org.bd/site/",
     "background": {
       "en": "Ahsan Manzil was the residential and administrative seat of Dhaka’s Nawab family. The palace on the Buriganga is now a museum, allowing visitors to explore the building and its historical context. Its riverside setting and distinctive pink exterior connect it closely with the story of Old Dhaka.",
@@ -822,7 +822,7 @@
       "National Martyrs’ Memorial",
       "জাতীয় স্মৃতিসৌধ"
     ],
-    "image": "destination-13.jpg",
+    "image": "assets/images/destination-13.jpg",
     "source": "https://www.beautifulbangladesh.gov.bd/district/dhaka",
     "background": {
       "en": "The National Martyrs’ Memorial at Savar honours those who died in the Liberation War of 1971. It is a place for remembrance as well as a national landmark. Approach the visit with an understanding of its commemorative purpose and allow time for quiet reflection.",
@@ -888,7 +888,7 @@
       "Central Shaheed Minar",
       "কেন্দ্রীয় শহীদ মিনার"
     ],
-    "image": "destination-14.jpg",
+    "image": "assets/images/destination-14.jpg",
     "source": "https://www.beautifulbangladesh.gov.bd/district/dhaka",
     "background": {
       "en": "The Central Shaheed Minar commemorates the martyrs of the Language Movement. It is closely associated with the events of February 1952 and the importance of Bangla in national identity. The monument remains a setting for remembrance, particularly around 21 February.",
@@ -954,7 +954,7 @@
       "National Parliament House",
       "জাতীয় সংসদ ভবন"
     ],
-    "image": "destination-15.jpg",
+    "image": "assets/images/destination-15.jpg",
     "source": "https://www.beautifulbangladesh.gov.bd/district/dhaka",
     "background": {
       "en": "Designed by Louis Kahn, the National Parliament House is one of Bangladesh’s most recognisable modern architectural landmarks. Its bold geometric forms and surrounding landscape distinguish the complex. Parliamentary buildings are controlled facilities: an exterior visit and interior access are different experiences and require different arrangements.",
@@ -1038,7 +1038,7 @@
       "Jaflong",
       "জাফলং"
     ],
-    "image": "destination-16.jpg",
+    "image": "assets/images/destination-16.jpg",
     "source": "https://beautifulbangladesh.gov.bd/district-destination/sylhet/hill-tracts-waterfalls/124",
     "sources": [
       {
@@ -1104,7 +1104,7 @@
       "Ratargul Swamp Forest",
       "রাতারগুল জলাবন"
     ],
-    "image": "destination-17.jpg",
+    "image": "assets/images/destination-17.jpg",
     "source": "https://beautifulbangladesh.gov.bd/district-destination/sylhet/green-zone/25",
     "sources": [
       {
@@ -1170,7 +1170,7 @@
       "Lawachara National Park",
       "লাউয়াছড়া জাতীয় উদ্যান"
     ],
-    "image": "destination-18.jpg",
+    "image": "assets/images/destination-18.jpg",
     "source": "https://beautifulbangladesh.gov.bd/district-destination/moulvibazar/green-zone/23",
     "sources": [
       {
@@ -1236,7 +1236,7 @@
       "Madhabkunda Waterfall",
       "মাধবকুণ্ড জলপ্রপাত"
     ],
-    "image": "destination-19.jpg",
+    "image": "assets/images/destination-19.jpg",
     "source": "https://beautifulbangladesh.gov.bd/loc/sylhet/120",
     "sources": [
       {
@@ -1302,7 +1302,7 @@
       "Inani Beach",
       "ইনানী সৈকত"
     ],
-    "image": "inani.jpg",
+    "image": "assets/images/inani.jpg",
     "source": "https://beautifulbangladesh.gov.bd/newsletter/single/207",
     "sources": [
       {
@@ -1369,7 +1369,7 @@
       "Mainamati War Cemetery",
       "ময়নামতি যুদ্ধ সমাধিক্ষেত্র"
     ],
-    "image": "destination-21.jpg",
+    "image": "assets/images/destination-21.jpg",
     "source": "https://beautifulbangladesh.gov.bd/newsletter/single/454",
     "sources": [
       {
@@ -1435,7 +1435,7 @@
       "Sajek Valley",
       "সাজেক ভ্যালি"
     ],
-    "image": "sajek.jpg",
+    "image": "assets/images/sajek.jpg",
     "source": "https://beautifulbangladesh.gov.bd/district-destination/rangamati/hill-tracts-waterfalls/11",
     "sources": [
       {
@@ -1502,7 +1502,7 @@
       "Nilgiri",
       "নীলগিরি"
     ],
-    "image": "destination-23.jpg",
+    "image": "assets/images/destination-23.jpg",
     "source": "https://beautifulbangladesh.gov.bd/district-destination/bandarban/hill-tracts-waterfalls/9",
     "sources": [
       {
@@ -1568,7 +1568,7 @@
       "Tajhat Palace",
       "তাজহাট রাজবাড়ি"
     ],
-    "image": "tajhat.jpg",
+    "image": "assets/images/tajhat.jpg",
     "source": "https://beautifulbangladesh.gov.bd/loc/rangpur/61",
     "sources": [
       {
@@ -1635,7 +1635,7 @@
       "Kantajew Temple",
       "কান্তজিউ মন্দির"
     ],
-    "image": "destination-25.jpg",
+    "image": "assets/images/destination-25.jpg",
     "source": "https://beautifulbangladesh.gov.bd/newsletter/single/196",
     "sources": [
       {
@@ -1701,7 +1701,7 @@
       "Ramsagar National Park",
       "রামসাগর জাতীয় উদ্যান"
     ],
-    "image": "destination-26.jpg",
+    "image": "assets/images/destination-26.jpg",
     "source": "https://beautifulbangladesh.gov.bd/district-destination/dinajpur/green-zone/63",
     "sources": [
       {
@@ -1767,7 +1767,7 @@
       "Shashi Lodge",
       "শশী লজ"
     ],
-    "image": "destination-27.jpg",
+    "image": "assets/images/destination-27.jpg",
     "source": "https://beautifulbangladesh.gov.bd/index.php/district-destination/mymensingh/heritage/71",
     "sources": [
       {
@@ -1833,7 +1833,7 @@
       "Muktagacha Zamindar Bari",
       "মুক্তাগাছা জমিদারবাড়ি"
     ],
-    "image": "destination-28.jpg",
+    "image": "assets/images/destination-28.jpg",
     "source": "https://beautifulbangladesh.gov.bd/district-destination/mymensingh/heritage/73",
     "sources": [
       {
@@ -1899,7 +1899,7 @@
       "Puthia Rajbari",
       "পুঠিয়া রাজবাড়ি"
     ],
-    "image": "destination-29.jpg",
+    "image": "assets/images/destination-29.jpg",
     "source": "https://beautifulbangladesh.gov.bd/district-destination/rajshahi/heritage/114",
     "sources": [
       {
@@ -1965,7 +1965,7 @@
       "Varendra Research Museum",
       "বরেন্দ্র গবেষণা জাদুঘর"
     ],
-    "image": "destination-30.jpg",
+    "image": "assets/images/destination-30.jpg",
     "source": "https://beautifulbangladesh.gov.bd/district-destination/rajshahi/landmarks/119",
     "sources": [
       {

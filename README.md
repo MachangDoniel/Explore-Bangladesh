@@ -1,20 +1,34 @@
 # Explore Bangladesh
 
-A bilingual Bangladesh travel guide featuring 30 destinations across eight divisions, destination photographs, smart search, an interactive map, selected-place grids, detailed travel guides, and persistent light/dark mode.
+A bilingual travel guide to 30 destinations across Bangladesh, with photographs, smart search, maps, detailed guides, selected places, and dark mode.
 
-Live website: https://explore-bangladesh-doniel.donieltripura1971.chatgpt.site
+[Visit the website](https://explore-bangladesh-doniel.donieltripura1971.chatgpt.site)
 
 ## Run locally
 
-From this folder, run `python3 -m http.server 8000 --directory .` and open http://localhost:8000. No build step or API key is required.
+```sh
+python3 -m http.server 8000 --directory public
+```
 
-## Files
+Open http://localhost:8000. No API key or build is required.
 
-- `index.html`: homepage
-- `places.html`: destination directory and selected places
-- `place.html`: individual destination guides
-- `map.html`: interactive map
-- `destinations.json`: bilingual guide content, photo credits and source links
-- `theme.js` and `dark.css`: theme switch
+## Project structure
 
-Map tiles use OpenStreetMap. Leaflet is distributed under its BSD 2-Clause license. Destination photographs retain their individual licenses; see IMAGE_CREDITS.md and the attribution shown on the website.
+- `public/`: website pages
+- `public/assets/css/`: application styles
+- `public/assets/js/`: search, map, page rendering and theme logic
+- `public/assets/images/`: destination photographs
+- `public/assets/data/destinations.json`: bilingual guides, sources and image credits
+- `public/assets/vendor/leaflet/`: third-party map library
+- `docs/`: project screenshots and photo attribution
+- `scripts/build.py`: copies the deployable website into `dist/`
+
+## Build
+
+```sh
+python3 scripts/build.py
+```
+
+## Credits
+
+Photographs retain their individual licenses. See [image credits](docs/IMAGE_CREDITS.md). Leaflet uses its BSD 2-Clause license. Maps use OpenStreetMap tiles and attribution.
